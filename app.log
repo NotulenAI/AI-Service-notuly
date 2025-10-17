@@ -1,0 +1,719 @@
+2025-09-25 17:17:46,353 - INFO - Will watch for changes in these directories: ['/home/why/Workspace/AI-service-notuly']
+2025-09-25 17:17:46,354 - INFO - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-09-25 17:17:46,355 - INFO - Started reloader process [116288] using WatchFiles
+2025-09-25 17:17:47,728 - INFO - Started server process [116377]
+2025-09-25 17:17:47,730 - INFO - Waiting for application startup.
+2025-09-25 17:17:47,731 - INFO - Application startup complete.
+2025-09-25 17:17:47,803 - INFO - 135 changes detected
+2025-09-25 17:17:48,165 - INFO - 1 change detected
+2025-09-25 17:17:48,516 - INFO - 1 change detected
+2025-09-25 17:17:48,867 - INFO - 1 change detected
+2025-09-25 17:17:49,219 - INFO - 1 change detected
+2025-09-25 17:17:49,570 - INFO - 1 change detected
+2025-09-25 17:17:49,921 - INFO - 1 change detected
+2025-09-25 17:17:50,272 - INFO - 1 change detected
+2025-09-25 17:17:50,623 - INFO - 1 change detected
+2025-09-25 17:17:50,974 - INFO - 1 change detected
+2025-09-25 17:17:51,325 - INFO - 1 change detected
+2025-09-25 17:17:51,677 - INFO - 1 change detected
+2025-09-25 17:17:52,028 - INFO - 1 change detected
+2025-09-25 17:17:52,379 - INFO - 1 change detected
+2025-09-25 17:17:52,729 - INFO - 1 change detected
+2025-09-25 17:17:53,080 - INFO - 1 change detected
+2025-09-25 17:17:53,431 - INFO - 1 change detected
+2025-09-25 17:17:53,782 - INFO - 1 change detected
+2025-09-25 17:17:54,133 - INFO - 1 change detected
+2025-09-25 17:17:54,484 - INFO - 1 change detected
+2025-09-25 17:17:54,835 - INFO - 1 change detected
+2025-09-25 17:17:55,186 - INFO - 1 change detected
+2025-09-25 17:17:55,537 - INFO - 1 change detected
+2025-09-25 17:17:55,888 - INFO - 1 change detected
+2025-09-25 17:17:56,239 - INFO - 1 change detected
+2025-09-25 17:17:56,590 - INFO - 1 change detected
+2025-09-25 17:17:56,941 - INFO - 1 change detected
+2025-09-25 17:17:57,292 - INFO - 1 change detected
+2025-09-25 17:17:57,643 - INFO - 1 change detected
+2025-09-25 17:17:57,995 - INFO - 1 change detected
+2025-09-25 17:17:58,345 - INFO - 1 change detected
+2025-09-25 17:17:58,696 - INFO - 1 change detected
+2025-09-25 17:17:59,047 - INFO - 1 change detected
+2025-09-25 17:17:59,398 - INFO - 1 change detected
+2025-09-25 17:17:59,749 - INFO - 1 change detected
+2025-09-25 17:18:00,100 - INFO - 1 change detected
+2025-09-25 17:18:00,451 - INFO - 1 change detected
+2025-09-25 17:18:00,802 - INFO - 1 change detected
+2025-09-25 17:18:01,153 - INFO - 1 change detected
+2025-09-25 17:18:01,504 - INFO - 1 change detected
+2025-09-25 17:18:01,855 - INFO - 1 change detected
+2025-09-25 17:18:02,206 - INFO - 1 change detected
+2025-09-25 17:18:02,557 - INFO - 1 change detected
+2025-09-25 17:18:02,908 - INFO - 1 change detected
+2025-09-25 17:18:03,259 - INFO - 1 change detected
+2025-09-25 17:18:03,610 - INFO - 1 change detected
+2025-09-25 17:18:03,961 - INFO - 1 change detected
+2025-09-25 17:18:04,312 - INFO - 1 change detected
+2025-09-25 17:18:04,663 - INFO - 1 change detected
+2025-09-25 17:18:05,014 - INFO - 1 change detected
+2025-09-25 17:18:05,365 - INFO - 1 change detected
+2025-09-25 17:18:05,716 - INFO - 1 change detected
+2025-09-25 17:18:06,067 - INFO - 1 change detected
+2025-09-25 17:18:06,418 - INFO - 1 change detected
+2025-09-25 17:18:06,770 - INFO - 1 change detected
+2025-09-25 17:18:07,121 - INFO - 1 change detected
+2025-09-25 17:18:07,472 - INFO - 1 change detected
+2025-09-25 17:18:07,823 - INFO - 1 change detected
+2025-09-25 17:18:08,174 - INFO - 1 change detected
+2025-09-25 17:18:08,525 - INFO - 1 change detected
+2025-09-25 17:18:08,875 - INFO - 1 change detected
+2025-09-25 17:18:09,226 - INFO - 1 change detected
+2025-09-25 17:18:09,578 - INFO - 1 change detected
+2025-09-25 17:18:09,929 - INFO - 1 change detected
+2025-09-25 17:18:10,280 - INFO - 1 change detected
+2025-09-25 17:18:10,631 - INFO - 1 change detected
+2025-09-25 17:18:10,982 - INFO - 1 change detected
+2025-09-25 17:18:11,333 - INFO - 1 change detected
+2025-09-25 17:18:11,684 - INFO - 1 change detected
+2025-09-25 17:18:12,035 - INFO - 1 change detected
+2025-09-25 17:18:12,386 - INFO - 1 change detected
+2025-09-25 17:18:12,737 - INFO - 1 change detected
+2025-09-25 17:18:13,088 - INFO - 1 change detected
+2025-09-25 17:18:13,439 - INFO - 1 change detected
+2025-09-25 17:18:13,790 - INFO - 1 change detected
+2025-09-25 17:18:14,141 - INFO - 1 change detected
+2025-09-25 17:18:14,492 - INFO - 1 change detected
+2025-09-25 17:18:14,846 - INFO - 1 change detected
+2025-09-25 17:18:15,197 - INFO - 1 change detected
+2025-09-25 17:18:15,548 - INFO - 1 change detected
+2025-09-25 17:18:15,899 - INFO - 1 change detected
+2025-09-25 17:18:16,249 - INFO - 1 change detected
+2025-09-25 17:18:16,600 - INFO - 1 change detected
+2025-09-25 17:18:16,951 - INFO - 1 change detected
+2025-09-25 17:18:17,302 - INFO - 1 change detected
+2025-09-25 17:18:17,653 - INFO - 1 change detected
+2025-09-25 17:18:18,004 - INFO - 1 change detected
+2025-09-25 17:18:18,355 - INFO - 1 change detected
+2025-09-25 17:18:18,705 - INFO - 1 change detected
+2025-09-25 17:18:19,056 - INFO - 1 change detected
+2025-09-25 17:18:19,407 - INFO - 1 change detected
+2025-09-25 17:18:19,758 - INFO - 1 change detected
+2025-09-25 17:18:20,109 - INFO - 1 change detected
+2025-09-25 17:18:20,460 - INFO - 1 change detected
+2025-09-25 17:18:20,811 - INFO - 1 change detected
+2025-09-25 17:18:21,162 - INFO - 1 change detected
+2025-09-25 17:18:21,513 - INFO - 1 change detected
+2025-09-25 17:18:21,864 - INFO - 1 change detected
+2025-09-25 17:18:22,215 - INFO - 1 change detected
+2025-09-25 17:18:22,503 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0011911392211914062}
+2025-09-25 17:18:22,567 - INFO - 5 changes detected
+2025-09-25 17:18:22,644 - INFO - {'url': '/favicon.ico', 'method': 'GET', 'process_time': 0.0005342960357666016}
+2025-09-25 17:18:22,918 - INFO - 1 change detected
+2025-09-25 17:18:23,269 - INFO - 1 change detected
+2025-09-25 17:18:23,620 - INFO - 1 change detected
+2025-09-25 17:18:23,971 - INFO - 1 change detected
+2025-09-25 17:18:24,321 - INFO - 1 change detected
+2025-09-25 17:18:24,672 - INFO - 1 change detected
+2025-09-25 17:18:25,023 - INFO - 1 change detected
+2025-09-25 17:18:25,374 - INFO - 1 change detected
+2025-09-25 17:18:25,725 - INFO - 1 change detected
+2025-09-25 17:18:25,830 - INFO - {'url': '/scalar', 'method': 'GET', 'process_time': 0.0005757808685302734}
+2025-09-25 17:18:26,076 - INFO - 1 change detected
+2025-09-25 17:18:26,427 - INFO - 1 change detected
+2025-09-25 17:18:26,779 - INFO - 1 change detected
+2025-09-25 17:18:27,129 - INFO - 1 change detected
+2025-09-25 17:18:27,160 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.0029540061950683594}
+2025-09-25 17:18:27,165 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.0002980232238769531}
+2025-09-25 17:18:27,480 - INFO - 1 change detected
+2025-09-25 17:18:27,831 - INFO - 1 change detected
+2025-09-25 17:18:28,182 - INFO - 1 change detected
+2025-09-25 17:18:28,533 - INFO - 1 change detected
+2025-09-25 17:18:28,884 - INFO - 1 change detected
+2025-09-25 17:18:29,235 - INFO - 1 change detected
+2025-09-25 17:18:29,586 - INFO - 1 change detected
+2025-09-25 17:18:29,937 - INFO - 1 change detected
+2025-09-25 17:18:30,288 - INFO - 1 change detected
+2025-09-25 17:18:30,639 - INFO - 1 change detected
+2025-09-25 17:18:30,989 - INFO - 1 change detected
+2025-09-25 17:18:31,340 - INFO - 1 change detected
+2025-09-25 17:18:31,691 - INFO - 1 change detected
+2025-09-25 17:18:32,042 - INFO - 1 change detected
+2025-09-25 17:18:32,393 - INFO - 1 change detected
+2025-09-25 17:18:32,744 - INFO - 1 change detected
+2025-09-25 17:18:33,095 - INFO - 1 change detected
+2025-09-25 17:18:33,446 - INFO - 1 change detected
+2025-09-25 17:18:33,797 - INFO - 1 change detected
+2025-09-25 17:18:34,148 - INFO - 1 change detected
+2025-09-25 17:18:34,499 - INFO - 1 change detected
+2025-09-25 17:18:34,850 - INFO - 1 change detected
+2025-09-25 17:18:35,201 - INFO - 1 change detected
+2025-09-25 17:18:35,552 - INFO - 1 change detected
+2025-09-25 17:18:35,903 - INFO - 1 change detected
+2025-09-25 17:18:36,254 - INFO - 1 change detected
+2025-09-25 17:18:36,605 - INFO - 1 change detected
+2025-09-25 17:18:36,957 - INFO - 1 change detected
+2025-09-25 17:18:37,308 - INFO - 1 change detected
+2025-09-25 17:18:37,659 - INFO - 1 change detected
+2025-09-25 17:18:38,010 - INFO - 1 change detected
+2025-09-25 17:18:38,361 - INFO - 1 change detected
+2025-09-25 17:18:38,712 - INFO - 1 change detected
+2025-09-25 17:18:39,063 - INFO - 1 change detected
+2025-09-25 17:18:39,414 - INFO - 1 change detected
+2025-09-25 17:18:39,765 - INFO - 1 change detected
+2025-09-25 17:18:40,115 - INFO - 1 change detected
+2025-09-25 17:18:40,466 - INFO - 1 change detected
+2025-09-25 17:18:40,817 - INFO - 1 change detected
+2025-09-25 17:18:41,168 - INFO - 1 change detected
+2025-09-25 17:18:41,519 - INFO - 1 change detected
+2025-09-25 17:18:41,870 - INFO - 1 change detected
+2025-09-25 17:18:42,220 - INFO - 1 change detected
+2025-09-25 17:18:42,571 - INFO - 1 change detected
+2025-09-25 17:18:42,922 - INFO - 1 change detected
+2025-09-25 17:18:43,274 - INFO - 1 change detected
+2025-09-25 17:18:43,625 - INFO - 1 change detected
+2025-09-25 17:18:43,976 - INFO - 1 change detected
+2025-09-25 17:18:44,327 - INFO - 1 change detected
+2025-09-25 17:18:44,677 - INFO - 1 change detected
+2025-09-25 17:18:45,028 - INFO - 1 change detected
+2025-09-25 17:18:45,379 - INFO - 1 change detected
+2025-09-25 17:18:45,730 - INFO - 1 change detected
+2025-09-25 17:18:46,081 - INFO - 1 change detected
+2025-09-25 17:18:46,432 - INFO - 1 change detected
+2025-09-25 17:18:46,783 - INFO - 1 change detected
+2025-09-25 17:18:47,134 - INFO - 1 change detected
+2025-09-25 17:18:47,485 - INFO - 1 change detected
+2025-09-25 17:18:47,836 - INFO - 1 change detected
+2025-09-25 17:18:48,187 - INFO - 1 change detected
+2025-09-25 17:18:48,538 - INFO - 1 change detected
+2025-09-25 17:18:48,889 - INFO - 1 change detected
+2025-09-25 17:18:49,240 - INFO - 1 change detected
+2025-09-25 17:18:49,591 - INFO - 1 change detected
+2025-09-25 17:18:49,942 - INFO - 1 change detected
+2025-09-25 17:18:50,293 - INFO - 1 change detected
+2025-09-25 17:18:50,644 - INFO - 1 change detected
+2025-09-25 17:18:50,995 - INFO - 1 change detected
+2025-09-25 17:18:51,346 - INFO - 1 change detected
+2025-09-25 17:18:51,697 - INFO - 1 change detected
+2025-09-25 17:18:52,048 - INFO - 1 change detected
+2025-09-25 17:18:52,399 - INFO - 1 change detected
+2025-09-25 17:18:52,750 - INFO - 1 change detected
+2025-09-25 17:18:53,101 - INFO - 1 change detected
+2025-09-25 17:18:53,453 - INFO - 1 change detected
+2025-09-25 17:18:53,803 - INFO - 1 change detected
+2025-09-25 17:18:54,154 - INFO - 1 change detected
+2025-09-25 17:18:54,505 - INFO - 1 change detected
+2025-09-25 17:18:54,857 - INFO - 1 change detected
+2025-09-25 17:18:55,208 - INFO - 1 change detected
+2025-09-25 17:18:55,559 - INFO - 1 change detected
+2025-09-25 17:18:55,910 - INFO - 1 change detected
+2025-09-25 17:18:56,261 - INFO - 1 change detected
+2025-09-25 17:18:56,612 - INFO - 1 change detected
+2025-09-25 17:18:56,963 - INFO - 1 change detected
+2025-09-25 17:18:57,314 - INFO - 1 change detected
+2025-09-25 17:18:57,665 - INFO - 1 change detected
+2025-09-25 17:18:58,016 - INFO - 1 change detected
+2025-09-25 17:18:58,367 - INFO - 1 change detected
+2025-09-25 17:18:58,718 - INFO - 1 change detected
+2025-09-25 17:18:59,069 - INFO - 1 change detected
+2025-09-25 17:18:59,420 - INFO - 1 change detected
+2025-09-25 17:18:59,771 - INFO - 1 change detected
+2025-09-25 17:19:00,122 - INFO - 1 change detected
+2025-09-25 17:19:00,473 - INFO - 1 change detected
+2025-09-25 17:19:00,824 - INFO - 1 change detected
+2025-09-25 17:19:01,175 - INFO - 1 change detected
+2025-09-25 17:19:01,526 - INFO - 1 change detected
+2025-09-25 17:19:01,877 - INFO - 1 change detected
+2025-09-25 17:19:02,228 - INFO - 1 change detected
+2025-09-25 17:19:02,579 - INFO - 1 change detected
+2025-09-25 17:19:02,931 - INFO - 1 change detected
+2025-09-25 17:19:03,282 - INFO - 1 change detected
+2025-09-25 17:19:03,632 - INFO - 1 change detected
+2025-09-25 17:19:03,983 - INFO - 1 change detected
+2025-09-25 17:19:04,334 - INFO - 1 change detected
+2025-09-25 17:19:04,685 - INFO - 1 change detected
+2025-09-25 17:19:05,036 - INFO - 1 change detected
+2025-09-25 17:19:05,386 - INFO - 1 change detected
+2025-09-25 17:19:05,737 - INFO - 1 change detected
+2025-09-25 17:19:06,088 - INFO - 1 change detected
+2025-09-25 17:19:06,439 - INFO - 1 change detected
+2025-09-25 17:19:06,790 - INFO - 1 change detected
+2025-09-25 17:19:07,141 - INFO - 1 change detected
+2025-09-25 17:19:07,492 - INFO - 1 change detected
+2025-09-25 17:19:07,843 - INFO - 1 change detected
+2025-09-25 17:19:08,194 - INFO - 1 change detected
+2025-09-25 17:19:08,545 - INFO - 1 change detected
+2025-09-25 17:19:08,896 - INFO - 1 change detected
+2025-09-25 17:19:09,247 - INFO - 1 change detected
+2025-09-25 17:19:09,597 - INFO - 1 change detected
+2025-09-25 17:19:09,948 - INFO - 1 change detected
+2025-09-25 17:19:10,299 - INFO - 1 change detected
+2025-09-25 17:19:10,650 - INFO - 1 change detected
+2025-09-25 17:19:11,001 - INFO - 1 change detected
+2025-09-25 17:19:11,352 - INFO - 1 change detected
+2025-09-25 17:19:11,703 - INFO - 1 change detected
+2025-09-25 17:19:12,054 - INFO - 1 change detected
+2025-09-25 17:19:12,405 - INFO - 1 change detected
+2025-09-25 17:19:12,756 - INFO - 1 change detected
+2025-09-25 17:19:13,107 - INFO - 1 change detected
+2025-09-25 17:19:13,458 - INFO - 1 change detected
+2025-09-25 17:19:13,809 - INFO - 1 change detected
+2025-09-25 17:19:14,160 - INFO - 1 change detected
+2025-09-25 17:19:14,511 - INFO - 2 changes detected
+2025-09-25 17:19:14,513 - WARNING - WatchFiles detected changes in 'app/main.py'. Reloading...
+2025-09-25 17:19:14,555 - INFO - Shutting down
+2025-09-25 17:19:14,656 - INFO - Waiting for application shutdown.
+2025-09-25 17:19:14,658 - INFO - Application shutdown complete.
+2025-09-25 17:19:14,659 - INFO - Finished server process [116377]
+2025-09-25 17:19:15,200 - INFO - 1 change detected
+2025-09-25 17:19:15,551 - INFO - 1 change detected
+2025-09-25 17:19:15,902 - INFO - 1 change detected
+2025-09-25 17:19:16,253 - INFO - 1 change detected
+2025-09-25 17:19:16,604 - INFO - 1 change detected
+2025-09-25 17:19:16,761 - INFO - Started server process [118768]
+2025-09-25 17:19:16,764 - INFO - Waiting for application startup.
+2025-09-25 17:19:16,766 - INFO - Application startup complete.
+2025-09-25 17:19:16,955 - INFO - 4 changes detected
+2025-09-25 17:19:17,306 - INFO - 1 change detected
+2025-09-25 17:19:17,657 - INFO - 1 change detected
+2025-09-25 17:19:18,008 - INFO - 1 change detected
+2025-09-25 17:19:18,359 - INFO - 1 change detected
+2025-09-25 17:19:18,710 - INFO - 1 change detected
+2025-09-25 17:19:19,061 - INFO - 2 changes detected
+2025-09-25 17:19:19,063 - WARNING - WatchFiles detected changes in 'app/main.py'. Reloading...
+2025-09-25 17:19:19,073 - INFO - Shutting down
+2025-09-25 17:19:19,175 - INFO - Waiting for application shutdown.
+2025-09-25 17:19:19,177 - INFO - Application shutdown complete.
+2025-09-25 17:19:19,179 - INFO - Finished server process [118768]
+2025-09-25 17:19:19,710 - INFO - 1 change detected
+2025-09-25 17:19:20,060 - INFO - 1 change detected
+2025-09-25 17:19:20,411 - INFO - 1 change detected
+2025-09-25 17:19:20,762 - INFO - 4 changes detected
+2025-09-25 17:19:21,113 - INFO - 1 change detected
+2025-09-25 17:19:21,464 - INFO - 1 change detected
+2025-09-25 17:19:21,815 - INFO - 1 change detected
+2025-09-25 17:19:22,166 - INFO - 1 change detected
+2025-09-25 17:19:22,517 - INFO - 1 change detected
+2025-09-25 17:19:22,868 - INFO - 1 change detected
+2025-09-25 17:19:23,219 - INFO - 1 change detected
+2025-09-25 17:19:23,570 - INFO - 1 change detected
+2025-09-25 17:19:23,921 - INFO - 1 change detected
+2025-09-25 17:19:24,272 - INFO - 1 change detected
+2025-09-25 17:19:24,623 - INFO - 2 changes detected
+2025-09-25 17:19:24,624 - WARNING - WatchFiles detected changes in 'app/main.py'. Reloading...
+2025-09-25 17:19:24,976 - INFO - 1 change detected
+2025-09-25 17:19:25,327 - INFO - 1 change detected
+2025-09-25 17:19:25,678 - INFO - 1 change detected
+2025-09-25 17:19:25,855 - INFO - Started server process [119017]
+2025-09-25 17:19:25,858 - INFO - Waiting for application startup.
+2025-09-25 17:19:25,860 - INFO - Application startup complete.
+2025-09-25 17:19:26,029 - INFO - 4 changes detected
+2025-09-25 17:19:26,380 - INFO - 1 change detected
+2025-09-25 17:19:26,731 - INFO - 1 change detected
+2025-09-25 17:19:27,082 - INFO - 1 change detected
+2025-09-25 17:19:27,433 - INFO - 1 change detected
+2025-09-25 17:19:27,784 - INFO - 1 change detected
+2025-09-25 17:19:28,135 - INFO - 1 change detected
+2025-09-25 17:19:28,486 - INFO - 1 change detected
+2025-09-25 17:19:28,837 - INFO - 2 changes detected
+2025-09-25 17:19:28,838 - WARNING - WatchFiles detected changes in 'app/main.py'. Reloading...
+2025-09-25 17:19:28,867 - INFO - Shutting down
+2025-09-25 17:19:28,969 - INFO - Waiting for application shutdown.
+2025-09-25 17:19:28,971 - INFO - Application shutdown complete.
+2025-09-25 17:19:28,972 - INFO - Finished server process [119017]
+2025-09-25 17:19:29,523 - INFO - 1 change detected
+2025-09-25 17:19:29,874 - INFO - 1 change detected
+2025-09-25 17:19:30,224 - INFO - 1 change detected
+2025-09-25 17:19:30,575 - INFO - 4 changes detected
+2025-09-25 17:19:30,926 - INFO - 1 change detected
+2025-09-25 17:19:31,277 - INFO - 2 changes detected
+2025-09-25 17:19:31,278 - WARNING - WatchFiles detected changes in 'app/main.py'. Reloading...
+2025-09-25 17:19:31,631 - INFO - 1 change detected
+2025-09-25 17:19:31,982 - INFO - 1 change detected
+2025-09-25 17:19:32,333 - INFO - 1 change detected
+2025-09-25 17:19:32,507 - INFO - Started server process [119211]
+2025-09-25 17:19:32,509 - INFO - Waiting for application startup.
+2025-09-25 17:19:32,510 - INFO - Application startup complete.
+2025-09-25 17:19:32,684 - INFO - 4 changes detected
+2025-09-25 17:19:33,035 - INFO - 2 changes detected
+2025-09-25 17:19:33,035 - WARNING - WatchFiles detected changes in 'app/main.py'. Reloading...
+2025-09-25 17:19:33,114 - INFO - Shutting down
+2025-09-25 17:19:33,216 - INFO - Waiting for application shutdown.
+2025-09-25 17:19:33,217 - INFO - Application shutdown complete.
+2025-09-25 17:19:33,218 - INFO - Finished server process [119211]
+2025-09-25 17:19:33,718 - INFO - 1 change detected
+2025-09-25 17:19:34,069 - INFO - 1 change detected
+2025-09-25 17:19:34,420 - INFO - 1 change detected
+2025-09-25 17:19:34,506 - INFO - Started server process [119271]
+2025-09-25 17:19:34,508 - INFO - Waiting for application startup.
+2025-09-25 17:19:34,510 - INFO - Application startup complete.
+2025-09-25 17:19:34,771 - INFO - 4 changes detected
+2025-09-25 17:19:35,122 - INFO - 1 change detected
+2025-09-25 17:19:35,473 - INFO - 1 change detected
+2025-09-25 17:19:35,824 - INFO - 1 change detected
+2025-09-25 17:19:36,175 - INFO - 1 change detected
+2025-09-25 17:19:36,526 - INFO - 1 change detected
+2025-09-25 17:19:36,877 - INFO - 1 change detected
+2025-09-25 17:19:37,229 - INFO - 1 change detected
+2025-09-25 17:19:37,580 - INFO - 1 change detected
+2025-09-25 17:19:37,930 - INFO - 1 change detected
+2025-09-25 17:19:38,281 - INFO - 1 change detected
+2025-09-25 17:19:38,632 - INFO - 1 change detected
+2025-09-25 17:19:38,983 - INFO - 1 change detected
+2025-09-25 17:19:39,334 - INFO - 1 change detected
+2025-09-25 17:19:39,685 - INFO - 1 change detected
+2025-09-25 17:19:40,037 - INFO - 1 change detected
+2025-09-25 17:19:40,388 - INFO - 1 change detected
+2025-09-25 17:19:40,739 - INFO - 1 change detected
+2025-09-25 17:19:41,090 - INFO - 1 change detected
+2025-09-25 17:19:41,441 - INFO - 1 change detected
+2025-09-25 17:19:41,792 - INFO - 1 change detected
+2025-09-25 17:19:42,143 - INFO - 1 change detected
+2025-09-25 17:19:42,494 - INFO - 1 change detected
+2025-09-25 17:19:42,845 - INFO - 1 change detected
+2025-09-25 17:19:43,196 - INFO - 1 change detected
+2025-09-25 17:19:43,547 - INFO - 1 change detected
+2025-09-25 17:19:43,898 - INFO - 1 change detected
+2025-09-25 17:19:44,249 - INFO - 1 change detected
+2025-09-25 17:19:44,600 - INFO - 1 change detected
+2025-09-25 17:19:44,951 - INFO - 1 change detected
+2025-09-25 17:19:45,302 - INFO - 1 change detected
+2025-09-25 17:19:45,653 - INFO - 1 change detected
+2025-09-25 17:19:46,005 - INFO - 1 change detected
+2025-09-25 17:19:46,356 - INFO - 1 change detected
+2025-09-25 17:19:46,707 - INFO - 1 change detected
+2025-09-25 17:19:47,058 - INFO - 1 change detected
+2025-09-25 17:19:47,409 - INFO - 1 change detected
+2025-09-25 17:19:47,761 - INFO - 1 change detected
+2025-09-25 17:19:48,112 - INFO - 1 change detected
+2025-09-25 17:19:48,463 - INFO - 1 change detected
+2025-09-25 17:19:48,814 - INFO - 1 change detected
+2025-09-25 17:19:49,165 - INFO - 1 change detected
+2025-09-25 17:19:49,516 - INFO - 1 change detected
+2025-09-25 17:19:49,866 - INFO - 1 change detected
+2025-09-25 17:19:50,217 - INFO - 1 change detected
+2025-09-25 17:19:50,568 - INFO - 1 change detected
+2025-09-25 17:19:50,919 - INFO - 1 change detected
+2025-09-25 17:19:51,270 - INFO - 1 change detected
+2025-09-25 17:19:51,621 - INFO - 1 change detected
+2025-09-25 17:19:51,972 - INFO - 1 change detected
+2025-09-25 17:19:52,323 - INFO - 1 change detected
+2025-09-25 17:19:52,674 - INFO - 1 change detected
+2025-09-25 17:19:53,025 - INFO - 1 change detected
+2025-09-25 17:19:53,376 - INFO - 1 change detected
+2025-09-25 17:19:53,726 - INFO - 1 change detected
+2025-09-25 17:19:54,077 - INFO - 1 change detected
+2025-09-25 17:19:54,428 - INFO - 1 change detected
+2025-09-25 17:19:54,779 - INFO - 1 change detected
+2025-09-25 17:19:55,130 - INFO - 1 change detected
+2025-09-25 17:19:55,481 - INFO - 1 change detected
+2025-09-25 17:19:55,832 - INFO - 1 change detected
+2025-09-25 17:19:56,182 - INFO - 1 change detected
+2025-09-25 17:19:56,534 - INFO - 1 change detected
+2025-09-25 17:19:56,885 - INFO - 1 change detected
+2025-09-25 17:19:57,236 - INFO - 1 change detected
+2025-09-25 17:19:57,587 - INFO - 1 change detected
+2025-09-25 17:19:57,938 - INFO - 1 change detected
+2025-09-25 17:19:58,290 - INFO - 1 change detected
+2025-09-25 17:19:58,641 - INFO - 1 change detected
+2025-09-25 17:19:58,992 - INFO - 1 change detected
+2025-09-25 17:19:59,343 - INFO - 1 change detected
+2025-09-25 17:19:59,694 - INFO - 1 change detected
+2025-09-25 17:20:00,044 - INFO - 1 change detected
+2025-09-25 17:20:00,395 - INFO - 1 change detected
+2025-09-25 17:20:00,746 - INFO - 1 change detected
+2025-09-25 17:20:01,097 - INFO - 1 change detected
+2025-09-25 17:20:01,448 - INFO - 1 change detected
+2025-09-25 17:20:01,799 - INFO - 1 change detected
+2025-09-25 17:20:02,150 - INFO - 1 change detected
+2025-09-25 17:20:02,501 - INFO - 1 change detected
+2025-09-25 17:20:02,852 - INFO - 1 change detected
+2025-09-25 17:20:03,203 - INFO - 1 change detected
+2025-09-25 17:20:03,554 - INFO - 1 change detected
+2025-09-25 17:20:03,905 - INFO - 1 change detected
+2025-09-25 17:20:04,256 - INFO - 1 change detected
+2025-09-25 17:20:04,607 - INFO - 1 change detected
+2025-09-25 17:20:04,958 - INFO - 1 change detected
+2025-09-25 17:20:05,309 - INFO - 1 change detected
+2025-09-25 17:20:05,660 - INFO - 1 change detected
+2025-09-25 17:20:06,011 - INFO - 1 change detected
+2025-09-25 17:20:06,362 - INFO - 1 change detected
+2025-09-25 17:20:06,713 - INFO - 1 change detected
+2025-09-25 17:20:07,065 - INFO - 1 change detected
+2025-09-25 17:20:07,416 - INFO - 1 change detected
+2025-09-25 17:20:07,767 - INFO - 1 change detected
+2025-09-25 17:20:08,118 - INFO - 1 change detected
+2025-09-25 17:20:08,469 - INFO - 1 change detected
+2025-09-25 17:20:08,820 - INFO - 1 change detected
+2025-09-25 17:20:09,171 - INFO - 1 change detected
+2025-09-25 17:20:09,523 - INFO - 1 change detected
+2025-09-25 17:20:09,873 - INFO - 1 change detected
+2025-09-25 17:20:10,224 - INFO - 1 change detected
+2025-09-25 17:20:10,576 - INFO - 1 change detected
+2025-09-25 17:20:10,927 - INFO - 1 change detected
+2025-09-25 17:20:11,278 - INFO - 1 change detected
+2025-09-25 17:20:11,629 - INFO - 1 change detected
+2025-09-25 17:20:11,980 - INFO - 1 change detected
+2025-09-25 17:20:12,331 - INFO - 1 change detected
+2025-09-25 17:20:12,682 - INFO - 1 change detected
+2025-09-25 17:20:13,033 - INFO - 1 change detected
+2025-09-25 17:20:13,384 - INFO - 1 change detected
+2025-09-25 17:20:13,735 - INFO - 1 change detected
+2025-09-25 17:20:14,086 - INFO - 1 change detected
+2025-09-25 17:20:14,437 - INFO - 1 change detected
+2025-09-25 17:20:14,788 - INFO - 1 change detected
+2025-09-25 17:20:15,139 - INFO - 1 change detected
+2025-09-25 17:20:15,490 - INFO - 1 change detected
+2025-09-25 17:20:15,841 - INFO - 1 change detected
+2025-09-25 17:20:16,192 - INFO - 1 change detected
+2025-09-25 17:20:16,543 - INFO - 1 change detected
+2025-09-25 17:20:16,894 - INFO - 1 change detected
+2025-09-25 17:20:17,245 - INFO - 1 change detected
+2025-09-25 17:20:17,596 - INFO - 1 change detected
+2025-09-25 17:20:17,947 - INFO - 1 change detected
+2025-09-25 17:20:18,298 - INFO - 1 change detected
+2025-09-25 17:20:18,648 - INFO - 1 change detected
+2025-09-25 17:20:18,999 - INFO - 1 change detected
+2025-09-25 17:20:19,350 - INFO - 1 change detected
+2025-09-25 17:20:19,701 - INFO - 1 change detected
+2025-09-25 17:20:20,052 - INFO - 1 change detected
+2025-09-25 17:20:20,403 - INFO - 1 change detected
+2025-09-25 17:20:20,754 - INFO - 1 change detected
+2025-09-25 17:20:21,105 - INFO - 1 change detected
+2025-09-25 17:20:21,456 - INFO - 1 change detected
+2025-09-25 17:20:21,807 - INFO - 1 change detected
+2025-09-25 17:20:22,158 - INFO - 1 change detected
+2025-09-25 17:20:22,509 - INFO - 1 change detected
+2025-09-25 17:20:22,860 - INFO - 1 change detected
+2025-09-25 17:20:23,211 - INFO - 1 change detected
+2025-09-25 17:20:23,562 - INFO - 1 change detected
+2025-09-25 17:20:23,914 - INFO - 1 change detected
+2025-09-25 17:20:24,265 - INFO - 1 change detected
+2025-09-25 17:20:24,615 - INFO - 1 change detected
+2025-09-25 17:20:24,967 - INFO - 1 change detected
+2025-09-25 17:20:25,318 - INFO - 1 change detected
+2025-09-25 17:20:25,669 - INFO - 1 change detected
+2025-09-25 17:20:26,019 - INFO - 1 change detected
+2025-09-25 17:20:26,370 - INFO - 1 change detected
+2025-09-25 17:20:26,721 - INFO - 1 change detected
+2025-09-25 17:20:27,072 - INFO - 1 change detected
+2025-09-25 17:20:27,424 - INFO - 1 change detected
+2025-09-25 17:20:27,775 - INFO - 1 change detected
+2025-09-25 17:20:28,126 - INFO - 1 change detected
+2025-09-25 17:20:28,477 - INFO - 1 change detected
+2025-09-25 17:20:28,828 - INFO - 1 change detected
+2025-09-25 17:20:29,179 - INFO - 1 change detected
+2025-09-25 17:20:29,530 - INFO - 1 change detected
+2025-09-25 17:20:29,881 - INFO - 1 change detected
+2025-09-25 17:20:30,232 - INFO - 1 change detected
+2025-09-25 17:20:30,583 - INFO - 1 change detected
+2025-09-25 17:20:30,934 - INFO - 1 change detected
+2025-09-25 17:20:31,285 - INFO - 1 change detected
+2025-09-25 17:20:31,636 - INFO - 1 change detected
+2025-09-25 17:20:31,987 - INFO - 1 change detected
+2025-09-25 17:20:32,338 - INFO - 1 change detected
+2025-09-25 17:20:32,690 - INFO - 1 change detected
+2025-09-25 17:20:33,041 - INFO - 1 change detected
+2025-09-25 17:20:33,392 - INFO - 1 change detected
+2025-09-25 17:20:33,743 - INFO - 1 change detected
+2025-09-25 17:20:34,094 - INFO - 1 change detected
+2025-09-25 17:20:34,445 - INFO - 1 change detected
+2025-09-25 17:20:34,796 - INFO - 1 change detected
+2025-09-25 17:20:35,147 - INFO - 2 changes detected
+2025-09-25 17:20:35,148 - WARNING - WatchFiles detected changes in 'app/main.py'. Reloading...
+2025-09-25 17:20:35,244 - INFO - Shutting down
+2025-09-25 17:20:35,347 - INFO - Waiting for application shutdown.
+2025-09-25 17:20:35,349 - INFO - Application shutdown complete.
+2025-09-25 17:20:35,351 - INFO - Finished server process [119271]
+2025-09-25 17:20:35,889 - INFO - 1 change detected
+2025-09-25 17:20:36,240 - INFO - 1 change detected
+2025-09-25 17:20:36,590 - INFO - 1 change detected
+2025-09-25 17:20:36,809 - INFO - Started server process [120791]
+2025-09-25 17:20:36,812 - INFO - Waiting for application startup.
+2025-09-25 17:20:36,814 - INFO - Application startup complete.
+2025-09-25 17:20:36,941 - INFO - 4 changes detected
+2025-09-25 17:20:37,293 - INFO - 1 change detected
+2025-09-25 17:20:37,644 - INFO - 1 change detected
+2025-09-25 17:20:37,995 - INFO - 1 change detected
+2025-09-25 17:20:38,346 - INFO - 1 change detected
+2025-09-25 17:20:38,697 - INFO - 1 change detected
+2025-09-25 17:20:39,048 - INFO - 1 change detected
+2025-09-25 17:20:39,400 - INFO - 1 change detected
+2025-09-25 17:20:39,751 - INFO - 1 change detected
+2025-09-25 17:20:40,101 - INFO - 1 change detected
+2025-09-25 17:20:40,452 - INFO - 1 change detected
+2025-09-25 17:20:40,803 - INFO - 1 change detected
+2025-09-25 17:20:41,154 - INFO - 1 change detected
+2025-09-25 17:20:41,505 - INFO - 1 change detected
+2025-09-25 17:20:41,856 - INFO - 1 change detected
+2025-09-25 17:20:42,206 - INFO - 1 change detected
+2025-09-25 17:20:42,557 - INFO - 2 changes detected
+2025-09-25 17:20:42,558 - WARNING - WatchFiles detected changes in 'app/main.py'. Reloading...
+2025-09-25 17:20:42,631 - INFO - Shutting down
+2025-09-25 17:20:42,732 - INFO - Waiting for application shutdown.
+2025-09-25 17:20:42,735 - INFO - Application shutdown complete.
+2025-09-25 17:20:42,737 - INFO - Finished server process [120791]
+2025-09-25 17:20:43,253 - INFO - 1 change detected
+2025-09-25 17:20:43,604 - INFO - 1 change detected
+2025-09-25 17:20:43,955 - INFO - 1 change detected
+2025-09-25 17:20:44,265 - INFO - Started server process [120989]
+2025-09-25 17:20:44,268 - INFO - Waiting for application startup.
+2025-09-25 17:20:44,270 - INFO - Application startup complete.
+2025-09-25 17:20:44,306 - INFO - 4 changes detected
+2025-09-25 17:20:44,657 - INFO - 1 change detected
+2025-09-25 17:20:45,009 - INFO - 1 change detected
+2025-09-25 17:20:45,360 - INFO - 1 change detected
+2025-09-25 17:20:45,710 - INFO - 1 change detected
+2025-09-25 17:20:46,061 - INFO - 2 changes detected
+2025-09-25 17:20:46,062 - WARNING - WatchFiles detected changes in 'app/main.py'. Reloading...
+2025-09-25 17:20:46,076 - INFO - Shutting down
+2025-09-25 17:20:46,179 - INFO - Waiting for application shutdown.
+2025-09-25 17:20:46,181 - INFO - Application shutdown complete.
+2025-09-25 17:20:46,182 - INFO - Finished server process [120989]
+2025-09-25 17:20:46,720 - INFO - 1 change detected
+2025-09-25 17:20:47,071 - INFO - 1 change detected
+2025-09-25 17:20:47,421 - INFO - 1 change detected
+2025-09-25 17:20:47,647 - INFO - Started server process [121071]
+2025-09-25 17:20:47,649 - INFO - Waiting for application startup.
+2025-09-25 17:20:47,651 - INFO - Application startup complete.
+2025-09-25 17:20:47,772 - INFO - 4 changes detected
+2025-09-25 17:20:48,123 - INFO - 1 change detected
+2025-09-25 17:20:48,474 - INFO - 1 change detected
+2025-09-25 17:20:48,825 - INFO - 1 change detected
+2025-09-25 17:20:49,176 - INFO - 1 change detected
+2025-09-25 17:20:49,527 - INFO - 2 changes detected
+2025-09-25 17:20:49,528 - WARNING - WatchFiles detected changes in 'app/main.py'. Reloading...
+2025-09-25 17:20:49,559 - INFO - Shutting down
+2025-09-25 17:20:49,661 - INFO - Waiting for application shutdown.
+2025-09-25 17:20:49,663 - INFO - Application shutdown complete.
+2025-09-25 17:20:49,665 - INFO - Finished server process [121071]
+2025-09-25 17:20:50,198 - INFO - 1 change detected
+2025-09-25 17:20:50,549 - INFO - 1 change detected
+2025-09-25 17:20:50,900 - INFO - 1 change detected
+2025-09-25 17:20:50,998 - INFO - Started server process [121166]
+2025-09-25 17:20:51,001 - INFO - Waiting for application startup.
+2025-09-25 17:20:51,002 - INFO - Application startup complete.
+2025-09-25 17:20:51,251 - INFO - 4 changes detected
+2025-09-25 17:20:51,602 - INFO - 1 change detected
+2025-09-25 17:20:51,953 - INFO - 1 change detected
+2025-09-25 17:20:52,304 - INFO - 1 change detected
+2025-09-25 17:20:52,655 - INFO - 1 change detected
+2025-09-25 17:20:53,006 - INFO - 1 change detected
+2025-09-25 17:20:53,357 - INFO - 1 change detected
+2025-09-25 17:20:53,708 - INFO - 1 change detected
+2025-09-25 17:20:54,060 - INFO - 1 change detected
+2025-09-25 17:20:54,411 - INFO - 1 change detected
+2025-09-25 17:20:54,762 - INFO - 1 change detected
+2025-09-25 17:20:55,113 - INFO - 1 change detected
+2025-09-25 17:20:55,464 - INFO - 1 change detected
+2025-09-25 17:20:55,815 - INFO - 1 change detected
+2025-09-25 17:20:56,166 - INFO - 1 change detected
+2025-09-25 17:20:56,517 - INFO - 1 change detected
+2025-09-25 17:20:56,868 - INFO - 1 change detected
+2025-09-25 17:20:57,219 - INFO - 1 change detected
+2025-09-25 17:20:57,570 - INFO - 1 change detected
+2025-09-25 17:20:57,921 - INFO - 1 change detected
+2025-09-25 17:20:58,273 - INFO - 1 change detected
+2025-09-25 17:20:58,624 - INFO - 1 change detected
+2025-09-25 17:20:58,974 - INFO - 1 change detected
+2025-09-25 17:20:59,325 - INFO - 1 change detected
+2025-09-25 17:20:59,676 - INFO - 1 change detected
+2025-09-25 17:21:00,027 - INFO - 1 change detected
+2025-09-25 17:21:00,378 - INFO - 1 change detected
+2025-09-25 17:21:00,779 - INFO - 2 changes detected
+2025-09-25 17:21:00,780 - WARNING - WatchFiles detected changes in 'app/main.py'. Reloading...
+2025-09-25 17:21:00,832 - INFO - Shutting down
+2025-09-25 17:21:00,934 - INFO - Waiting for application shutdown.
+2025-09-25 17:21:00,936 - INFO - Application shutdown complete.
+2025-09-25 17:21:00,937 - INFO - Finished server process [121166]
+2025-09-25 17:21:01,472 - INFO - 1 change detected
+2025-09-25 17:21:01,822 - INFO - 1 change detected
+2025-09-25 17:21:02,173 - INFO - 1 change detected
+2025-09-25 17:21:02,361 - INFO - Started server process [121457]
+2025-09-25 17:21:02,363 - INFO - Waiting for application startup.
+2025-09-25 17:21:02,364 - INFO - Application startup complete.
+2025-09-25 17:21:02,524 - INFO - 4 changes detected
+2025-09-25 17:21:02,875 - INFO - 1 change detected
+2025-09-25 17:21:03,226 - INFO - 1 change detected
+2025-09-25 17:21:03,577 - INFO - 1 change detected
+2025-09-25 17:21:03,768 - INFO - Shutting down
+2025-09-25 17:21:03,870 - INFO - Waiting for application shutdown.
+2025-09-25 17:21:03,872 - INFO - Application shutdown complete.
+2025-09-25 17:21:03,873 - INFO - Finished server process [121457]
+2025-09-25 17:21:04,039 - INFO - Stopping reloader process [116288]
+2025-09-25 17:21:14,269 - INFO - Will watch for changes in these directories: ['/home/why/Workspace/AI-service-notuly']
+2025-09-25 17:21:14,271 - INFO - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-09-25 17:21:14,273 - INFO - Started reloader process [121727] using WatchFiles
+2025-09-25 17:21:15,494 - INFO - Started server process [121775]
+2025-09-25 17:21:15,496 - INFO - Waiting for application startup.
+2025-09-25 17:21:15,498 - INFO - Application startup complete.
+2025-09-25 17:21:15,596 - INFO - 1 change detected
+2025-09-25 17:21:15,947 - INFO - 1 change detected
+2025-09-25 17:21:16,298 - INFO - 1 change detected
+2025-09-25 17:21:16,649 - INFO - 1 change detected
+2025-09-25 17:21:17,000 - INFO - 1 change detected
+2025-09-25 17:21:17,352 - INFO - 1 change detected
+2025-09-25 17:21:17,703 - INFO - 1 change detected
+2025-09-25 17:21:18,054 - INFO - 1 change detected
+2025-09-25 17:21:18,405 - INFO - 1 change detected
+2025-09-25 17:21:18,756 - INFO - 1 change detected
+2025-09-25 17:21:19,106 - INFO - 1 change detected
+2025-09-25 17:21:19,457 - INFO - 1 change detected
+2025-09-25 17:21:19,808 - INFO - 1 change detected
+2025-09-25 17:21:20,159 - INFO - 1 change detected
+2025-09-25 17:21:20,510 - INFO - 1 change detected
+2025-09-25 17:21:20,861 - INFO - 1 change detected
+2025-09-25 17:21:21,212 - INFO - 1 change detected
+2025-09-25 17:21:21,563 - INFO - 1 change detected
+2025-09-25 17:21:21,917 - INFO - 1 change detected
+2025-09-25 17:21:22,267 - INFO - 1 change detected
+2025-09-25 17:21:22,618 - INFO - 1 change detected
+2025-09-25 17:21:22,969 - INFO - 1 change detected
+2025-09-25 17:21:23,320 - INFO - 1 change detected
+2025-09-25 17:21:23,671 - INFO - 1 change detected
+2025-09-25 17:21:24,022 - INFO - 1 change detected
+2025-09-25 17:21:24,373 - INFO - 1 change detected
+2025-09-25 17:21:24,724 - INFO - 1 change detected
+2025-09-25 17:21:25,075 - INFO - 1 change detected
+2025-09-25 17:21:25,426 - INFO - 1 change detected
+2025-09-25 17:21:25,777 - INFO - 1 change detected
+2025-09-25 17:21:26,128 - INFO - 1 change detected
+2025-09-25 17:21:26,479 - INFO - 1 change detected
+2025-09-25 17:21:26,830 - INFO - 1 change detected
+2025-09-25 17:21:27,181 - INFO - 1 change detected
+2025-09-25 17:21:27,532 - INFO - 1 change detected
+2025-09-25 17:21:27,882 - INFO - 1 change detected
+2025-09-25 17:21:28,233 - INFO - 1 change detected
+2025-09-25 17:21:28,584 - INFO - 1 change detected
+2025-09-25 17:21:28,935 - INFO - 1 change detected
+2025-09-25 17:21:29,286 - INFO - 1 change detected
+2025-09-25 17:21:29,637 - INFO - 1 change detected
+2025-09-25 17:21:29,988 - INFO - 1 change detected
+2025-09-25 17:21:30,339 - INFO - 1 change detected
+2025-09-25 17:21:30,689 - INFO - 1 change detected
+2025-09-25 17:21:31,040 - INFO - 1 change detected
+2025-09-25 17:21:31,391 - INFO - 1 change detected
+2025-09-25 17:21:31,742 - INFO - 1 change detected
+2025-09-25 17:21:32,093 - INFO - 1 change detected
+2025-09-25 17:21:32,444 - INFO - 1 change detected
+2025-09-25 17:21:32,794 - INFO - 1 change detected
+2025-09-25 17:21:33,145 - INFO - 1 change detected
+2025-09-25 17:21:33,496 - INFO - 1 change detected
+2025-09-25 17:21:33,847 - INFO - 1 change detected
+2025-09-25 17:21:34,198 - INFO - 1 change detected
+2025-09-25 17:21:34,550 - INFO - 1 change detected
+2025-09-25 17:21:34,901 - INFO - 1 change detected
+2025-09-25 17:21:35,252 - INFO - 1 change detected
+2025-09-25 17:21:35,603 - INFO - 1 change detected
+2025-09-25 17:21:35,954 - INFO - 1 change detected
+2025-09-25 17:21:36,305 - INFO - 1 change detected
+2025-09-25 17:21:36,656 - INFO - 1 change detected
+2025-09-25 17:21:37,007 - INFO - 1 change detected
+2025-09-25 17:21:37,358 - INFO - 1 change detected
+2025-09-25 17:21:37,709 - INFO - 1 change detected
+2025-09-25 17:21:38,060 - INFO - 1 change detected
+2025-09-25 17:21:38,411 - INFO - 1 change detected
+2025-09-25 17:21:38,762 - INFO - 1 change detected
+2025-09-25 17:21:39,113 - INFO - 1 change detected
+2025-09-25 17:21:39,358 - INFO - Shutting down
+2025-09-25 17:21:39,460 - INFO - Waiting for application shutdown.
+2025-09-25 17:21:39,462 - INFO - Application shutdown complete.
+2025-09-25 17:21:39,464 - INFO - Finished server process [121775]
+2025-09-25 17:21:39,646 - INFO - Stopping reloader process [121727]

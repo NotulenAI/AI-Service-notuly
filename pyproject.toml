@@ -4,4 +4,13 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "fastapi[standard]>=0.117.1",
+    "langchain-text-splitters>=0.3.11",
+    "scalar-fastapi>=1.4.2",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.0.1",
+]
