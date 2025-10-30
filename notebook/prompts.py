@@ -1,6 +1,4 @@
-# Instruction-Based Prompting
-# 
-
+# `Instruction-Based Prompting`
 
 # https://cookbook.openai.com/examples/summarizing_long_documents
 openai_summarizer="""

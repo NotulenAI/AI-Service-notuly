@@ -2,3 +2,4 @@ name_file,words_counts,chunks,model,prompt,summarize_output, raw_text
 transcript-yt.txt,11284,-,gpt-4,"Buat ringkasan 3 kalimat yang menyoroti tujuan, metode, dan hasil.","Dokumen menjelaskan tujuan proyek, metode yang dipakai, dan hasil utama: peningkatan efisiensi sebesar 20%. Terdapat rekomendasi langkah implementasi.", ""
 transcript-yt.txt,11284,-,gpt-3.5-turbo,"Ringkas menjadi satu paragraf yang mudah dibaca untuk pembaca umum.","Artikel membahas tren pasar terbaru, faktor pendorong perubahan, dan implikasi untuk konsumen dengan bahasa yang sederhana dan padat.", ""
 transcript-yt.txt,11284,-,gpt-4o,"Buat ringkasan poin-poin penting untuk pengguna baru.","Manual menyajikan langkah instalasi, penggunaan dasar, serta daftar solusi masalah umum untuk pemula.", ""
+ashdasd, w2343423
