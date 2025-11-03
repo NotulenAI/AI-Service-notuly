@@ -1,0 +1,19 @@
+{
+  "name": "AI-service-notuly-js",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy --minify",
+    "cf-typegen": "wrangler types --env-interface CloudflareBindings"
+  },
+  "dependencies": {
+    "@langchain/classic": "^1.0.1",
+    "@langchain/core": "^1.0.2",
+    "@langchain/groq": "^1.0.0",
+    "hono": "^4.10.4",
+    "langchain": "^1.0.2"
+  },
+  "devDependencies": {
+    "wrangler": "^4.4.0"
+  }
+}

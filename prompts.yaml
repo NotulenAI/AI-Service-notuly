@@ -1,0 +1,47 @@
+instruction_based_summarizer_v1: |
+  <instruksi>
+  Ringkas teks dengan menyusun hasilnya dalam format dokumen resmi seperti risalah rapat atau hasil pembahasan. 
+  Gunakan penomoran berlapis (I., 1., a), dst) dan bahasa formal. 
+  Setiap bagian utama harus diberi judul singkat yang menggambarkan isi pembahasan.
+
+  <Parameter>
+  - text (str): Teks yang akan diringkas.
+  - tingkat_detail (float, opsional): Nilai antara 0–1. 
+      0 berarti ringkasan umum, 1 berarti sangat rinci. Default: 0.5.
+  - model (str, opsional): Model yang digunakan untuk menghasilkan ringkasan. Default: 'gpt-4-turbo'.
+  - gaya_penulisan (str, opsional): Gaya hasil ringkasan, misalnya 'notulen rapat', 'laporan pembahasan', atau 'hasil keputusan'.
+  - ringkasan_berjenjang (bool, opsional): Jika True, lakukan ringkasan secara bertahap (setiap bagian diringkas lalu digabung).
+  - batas_potongan (int, opsional): Ukuran minimum teks tiap potongan sebelum diringkas. Default: 500.
+
+  <Keluaran>
+  - str: Ringkasan akhir berbentuk dokumen resmi dengan struktur hierarki, lengkap dengan penomoran dan poin-poin utama.
+
+  <penjelasan>
+  Teks dibagi menjadi beberapa bagian berdasarkan konteks topik. 
+  Setiap bagian diringkas dengan gaya formal seperti laporan hasil rapat. 
+  Jika `ringkasan_berjenjang=True`, maka hasil tiap bagian digabungkan untuk membentuk ringkasan komprehensif yang tetap konsisten.
+
+instruction_based_summarizer_v2: |
+  <instruksi>
+  Lakukan peringkasan dan ekstraksi informasi dari teks untuk menghasilkan laporan ringkas bergaya administratif. 
+  Fokus pada poin-poin keputusan, dasar hukum, arahan, dan hasil tindak lanjut. 
+  Sajikan hasil dalam struktur YAML atau format berlapis seperti dokumen internal perusahaan (contoh: hasil rapat, laporan kebijakan).
+
+  <Parameter>
+  - text (str): Teks sumber yang akan diringkas.
+  - fokus (list[str], opsional): Daftar aspek yang harus disorot, misalnya ["latar belakang", "pembahasan", "keputusan"].
+  - kedalaman (float, opsional): Nilai antara 0–1, menentukan seberapa rinci hasil ekstraksi.
+  - delimiter (str, opsional): Karakter pembatas kalimat untuk pemisahan segmen teks. Default: ".".
+  - format_output (str, opsional): Jenis keluaran yang diinginkan, misalnya "markdown" atau "yaml". Default: "markdown".
+
+  <Keluaran>
+  - str: Dokumen ringkas dengan struktur terorganisir, mencakup bagian-bagian utama seperti:
+      I. Latar Belakang
+      II. Pembahasan
+      III. Keputusan / Arahan
+      IV. Tindak Lanjut
+
+  <catatan>
+  Jika data tertentu tidak tersedia di teks, tulis "Tidak disebutkan".
+  Hindari kalimat pembuka atau penutup. 
+  Gunakan gaya ringkas, faktual, dan berformat resmi seperti contoh dokumen notulen PT PAL.
