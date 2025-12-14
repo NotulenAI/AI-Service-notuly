@@ -1,0 +1,84 @@
+**NOTULEN RAPAT PENGADUAN DAN KEPUTUSAN PENGELUARAN LISENSI SOLIDWORKS**  
+
+---
+
+### I. Pendahuluan  
+1. **Tanggal / Waktu**  
+   - 17 Mei 2023, pukul 10:00 – 10:30 WIB  
+2. **Peserta**  
+   - **Pihak Internal**: Divisi R&D, Divisi TI, Divisi QA, Legal, Keuangan, Manajemen.  
+   - **Pihak Eksternal**: Vendor SolidWorks (Solidwork, Arisma Data), ADTI, G-Weeket, PTRS Madhata.  
+3. **Latar Belakang**  
+   - Terdapat masalah penggunaan SolidWorks ilegal di beberapa unit kerja PT. PAL.  
+   - Diskusi bertujuan untuk memetakan kronologi, identifikasi perangkat, serta menyiapkan keputusan pembelian lisensi resmi.
+
+---
+
+### II. Kronologi Kasus (2022 – 2023)  
+1. **19 Agustus 2022**  
+   - Surat peringatan (No. 9) dari Dasal Sistem kepada PT. PAL terkait penggunaan software tanpa lisensi.  
+2. **23 November 2022** – **23 Desember 2022**  
+   - Surat somasi dan rapat koordinasi dengan SCPPTM.  
+3. **26 Desember 2022**  
+   - Arahan ADTI untuk penggunaan Software “Soil Block” di semua divisi.  
+4. **21 Maret 2023** – **3 April 2023**  
+   - Surat peringatan kedua, respon dibutuhkan sebelum 3 April.  
+5. **5 April 2023** – **14 April 2023**  
+   - Pengiriman bukti hardware ID dan physical address oleh Dasal System.  
+   - Tracing jaringan menunjukkan tiga divisi terlibat:  
+     - **Divisi TI (TKI)** – 2 unit PC  
+     - **Divisi Desain** – 1 unit PC  
+     - **Divisi Kapal Perang** – 1 unit PC  
+
+---
+
+### III. Identifikasi dan Analisis  
+1. **Physical Address**  
+   - 14 alamat diidentifikasi, 3 di antaranya konsisten pada semua periode.  
+2. **Timestamp & Akses**  
+   - SolidWorks diakses secara berulang, terkadang di luar jam kerja reguler.  
+3. **Perangkat Terlibat**  
+   - PC pribadi dan workstation di Divisi TI, Desain, serta Kapal Perang.  
+4. **Kebutuhan Proyek**  
+   - Software diperlukan untuk perhitungan titik berat, handling, dan rendering desain.  
+
+---
+
+### IV. Rapat dan Keputusan  
+1. **Rekomendasi Pembelian**  
+   - Semua unit memerlukan lisensi terpisah (minimal 5 lisensi) untuk memenuhi kebutuhan operasional.  
+   - Harga per lisensi diperkirakan USD 920.000 (termasuk modul tambahan).  
+2. **Negosiasi Vendor**  
+   - Direkomendasikan melakukan negosiasi dengan SolidWorks melalui channel resmi (Arisma Data) untuk mendapatkan harga volume dan pelatihan.  
+3. **Tindak Lanjut Legal**  
+   - Legal menyiapkan dokumen pembelian, kontrak, dan prosedur audit internal.  
+4. **Tindakan Imediate**  
+   - Segera melakukan order lisensi.  
+   - Melakukan perpanjangan atau migrasi perangkat lama ke server pusat.  
+5. **Anggaran**  
+   - Proposal biaya akan diajukan ke CMO dan COO untuk persetujuan.  
+
+---
+
+### V. Tindak Lanjut  
+1. **Bagian TI**  
+   - Memastikan semua PC terdaftar di jaringan pusat dan terhubung ke server licensor.  
+   - Melakukan audit keamanan data dan backup.  
+2. **Bagian Legal**  
+   - Menyusun kontrak pembelian dan SLA.  
+3. **Manajemen**  
+   - Menetapkan budget, persetujuan, dan timeline pembayaran.  
+4. **Vendor**  
+   - Menyediakan demonstrasi modul dan pelatihan teknis.  
+
+---
+
+### VI. Penutup  
+1. **Kesimpulan**  
+   - Penggunaan SolidWorks ilegal sudah teridentifikasi secara teknis dan administratif.  
+   - Rekomendasi pembelian lisensi resmi dipastikan untuk menghindari risiko hukum dan meningkatkan efisiensi proyek.  
+2. **Akhir Rapat**  
+   - Rapat ditutup pada pukul 10:30 WIB.  
+   - Catatan ini akan disebarkan ke semua pihak terkait dan disimpan di arsip digital rapat.  
+
+---

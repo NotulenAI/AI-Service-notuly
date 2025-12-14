@@ -1,0 +1,39 @@
+I. Latar Belakang  
+1. Identifikasi penggunaan Solidworks ilegal di PT. PAL.  
+   a) Tanggal 19 Agustus 2022: Surat nomor 9 dari Tarikan bertindak atas nama Dasal Sistem, surat peringatan kepada PT. PAL.  
+   b) Periode 3 Februari – 18 April 2022: penggunaan di PT. Polio, diidentifikasi oleh Departemen Investigasi.  
+   c) 23 November 2022: Surat somasi.  
+   d) 23 Desember 2022: Rapat arahan dari SCPPTM.  
+2. Penggunaan software lain (Soil Block, Solid Block) di berbagai divisi PT. PAL.  
+   a) 26 Desember 2022: Arahan ADTI penggunaan Soil Block di seluruh divisi.  
+   b) 5 April 2023: Dansault System mengirimkan bukti 14 physical address (hardware ID/MAC).  
+   c) 13–14 April 2023: Tracing dan timestamp tambahan, total 3 physical address teridentifikasi.  
+
+II. Permasalahan  
+1. Solidworks terinstal secara ilegal pada PC di beberapa divisi (TKI, Engineering, Kapal Perang, QA, OTB, UTP, Desain).  
+2. Kurangnya lisensi resmi dan keterbatasan akses jaringan.  
+3. Ketidakpastian mengenai kepemilikan dan pembayaran vendor (Arisma, Solidworks).  
+4. Dampak operasional: tidak dapat mencetak, mengolah data, dan risiko keamanan data pribadi.  
+
+III. Pembahasan  
+1. Identifikasi lebih lanjut menunjukkan penggunaan ilegal tidak terikat pada RND.  
+2. Terdapat 14 physical address awal, 3 teridentifikasi setelah tracing.  
+3. Rapat 17 Mei 2023 melibatkan perwakilan divisi (TI, QA, Kapal Perang, Legal, GIA, DAPMAS).  
+4. Diskusi harga lisensi Solidworks:  
+   a) Harga satu lisensi $920.000 USD.  
+   b) Dibutuhkan setidaknya 5 lisensi untuk memenuhi kebutuhan proyek.  
+5. Usulan pembelian lisensi oleh manajemen, namun belum disetujui karena nilai tinggi dan perbedaan COO/CMO.  
+
+IV. Keputusan  
+1. Disetujui untuk mengajukan pembelian lisensi Solidworks.  
+2. Negosiasi akan dilakukan melalui pihak Legal dan CEO.  
+3. Tujuan: mengatasi masalah penggunaan ilegal, memfasilitasi printing dan pengolahan data, serta meningkatkan keamanan data.  
+
+V. Tindak Lanjut  
+1. Pihak Legal menyiapkan kontrak dan negosiasi harga.  
+2. CEO meninjau proposal pembelian dan mengalokasikan anggaran.  
+3. Divisi TI akan mengimplementasikan lisensi baru dan menonaktifkan instalasi ilegal.  
+4. Monitoring penggunaan lisensi akan dilakukan setiap bulan.  
+
+VI. Dasar Hukum/Referensi  
+Tidak disebutkan.

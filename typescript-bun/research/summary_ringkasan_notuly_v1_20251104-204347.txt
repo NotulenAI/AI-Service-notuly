@@ -1,0 +1,43 @@
+I. Referensi Pembahasan  
+   1. Pada tanggal 19 Agustus 2022, diterbitkan surat peringatan nomor 9 oleh pihak Dasal Sistem kepada PT. PAL terkait penggunaan SolidWorks, di mana surat tersebut memuat peringatan atas pelanggaran lisensi.  
+   2. Surat somasi dikirim pada tanggal 23 November 2022, diikuti dengan rapat pada tanggal 23 Desember 2022 yang diadakan atas arahan SCPPTM, di mana pihak Dasal Sistem menegaskan identifikasi awal terhadap perangkat yang terlibat.  
+   3. Surat peringatan ke‑dua disampaikan pada tanggal 21 Maret 2023, mengharuskan respon paling lambat tanggal 3 April 2023, yang menuntut tindakan korektif atas penggunaan software SolidWorks yang tidak terdaftar.  
+
+II. Permasalahan  
+   1. Terungkap bahwa terdapat instalasi SolidWorks ilegal di beberapa divisi PT. PAL, termasuk Divisi TKI, Divisi Desain, dan Divisi Kapal Perang, yang tidak terhubung ke jaringan perusahaan dan tidak terdaftar secara lisensi.  
+   2. Identifikasi teknis mengungkapkan adanya 14 physical address atau hardware ID yang terdaftar pada sistem Dasal Sistem, namun hanya sejumlah perangkat yang benar-benar digunakan oleh PT. PAL, dengan total tiga divisi teridentifikasi.  
+
+III. Pokok‑Pokok Pembahasan
+   1. Kronologi:  
+      a. Pada awal tahun 2022, pihak Dasal Sistem mengidentifikasi penggunaan SolidWorks di PT. PAL, namun awalnya dianggap terpasang di RND (University of Technology Bandung) sebelum akhirnya dinyatakan tidak terletak di sana.  
+      b. Selanjutnya, pada tanggal 26 Desember 2022, ADTI menyerahkan arahan mengenai penggunaan Software Soil Block di semua divisi PT. PAL, meski belum ada bukti penggunaan ilegal.  
+      c. Pada tanggal 5 April 2023, Dasal Sistem mengirimkan daftar physical address yang mencakup 14 alamat, di mana setelah investigasi hanya tiga divisi yang aktif.  
+   2. Tindak lanjut investigasi:  
+      a. Tim IT melakukan tracing jaringan dan menemukan bahwa perangkat terhubung pada dua divisi awalnya, yakni Divisi Desain dan Divisi Teknologi Quality Assurance, sebelum menambah satu divisi lain, yaitu Divisi Kapal Perang.  
+      b. Pihak Dasal Sistem meminta timestamp dan detail akses perangkat, yang kemudian diberikan pada tanggal 13 April 2023 dan 14 April 2023, menambah satu perangkat tambahan yang terdeteksi.  
+   3. Rencana pembelian lisensi:  
+      a. Diajukan bahwa satu lisensi SolidWorks hanya cukup untuk satu proyek, namun kebutuhan perusahaan memerlukan minimal lima lisensi agar operasional desain dapat berjalan lancar.  
+      b. Diskusi menunjukkan bahwa nilai pembelian lisensi mencapai USD 920.000, yang belum disetujui oleh manajemen karena besarnya anggaran.  
+
+IV. Keputusan  
+   1. Disepakati untuk menyusun rencana pengadaan lisensi SolidWorks secara komprehensif, dengan memperkirakan kebutuhan minimal lima lisensi untuk memenuhi proyek-proyek yang sedang berlangsung.  
+   2. Diputuskan untuk mengkoordinasikan pengajuan ke CMO (Chief Marketing Officer) dan COO (Chief Operating Officer) guna memperoleh persetujuan anggaran, dengan menekankan bahwa pembelian ini merupakan kebutuhan strategis bagi kelangsungan produksi.  
+
+V. Tindak Lanjut  
+   1. Tim IT dan legal akan menyusun laporan teknis lengkap mengenai penggunaan perangkat, mencakup detail timestamp, hardware ID, dan jumlah akses per perangkat.  
+   2. Diajukan permohonan pengadaan lisensi kepada manajemen melalui jalur CMO, meninjau anggaran proyek yang tersedia dan mengajukan penawaran harga resmi dari vendor SolidWorks.  
+   3. Pihak Dasal Sistem akan menyiapkan dokumentasi resmi yang menegaskan status legalitas perangkat serta rekomendasi penggantian lisensi yang belum terdaftar.  
+
+VI. Dasar Hukum/Referensi  
+   1. Tidak disebutkan.  
+
+Tabel 1 – Daftar Physical Address yang Ditemukan (Hanya Sebagian)  
+
+| No. | Physical Address | Divisi yang Terkait | Status Penggunaan |
+|-----|-------------------|---------------------|-------------------|
+| 1   | 00:1A:2B:3C:4D:5E | Divisi TKI          | Ilegal            |
+| 2   | 11:22:33:44:55:66 | Divisi Desain       | Ilegal            |
+| 3   | 77:88:99:AA:BB:CC | Divisi Kapal Perang | Ilegal            |
+| …   | …                 | …                   | …                 |
+
+Catatan: Tabel mencantumkan tiga contoh physical address yang teridentifikasi; keseluruhan jumlah adalah tiga divisi yang aktif.

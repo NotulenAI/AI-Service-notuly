@@ -1,0 +1,32 @@
+I. Latar Belakang  
+   1. Pada tanggal 19 Agustus 2022, pihak Dasal Sistem mengirimkan surat nomor 9 kepada PT PAL yang berisi peringatan atas penggunaan SolidWorks yang tidak terdaftar.  
+   2. Identifikasi awal mengenai penggunaan SolidWorks dilakukan pada periode 3 Februari hingga 18 April 2022, di mana sistem diperkirakan telah diinstal di beberapa departemen.  
+   3. Pada 23 November 2022, Dasal Sistem mengirimkan surat somasi kepada PT PAL untuk menuntut kepatuhan atas pelanggaran lisensi.  
+   4. Rapat perundingan diadakan pada 23 Desember 2022 dan 26 Desember 2022, di mana SCPTM dan ADTI memberikan arahan terkait langkah selanjutnya dalam menangani pelanggaran tersebut.  
+   5. Pada 21 Maret 2023, PT PAL menerima surat peringatan kedua dari Dasal Sistem, mengharuskan tanggapan paling lambat 3 April 2023.
+
+II. Identifikasi dan Pelacakan  
+   1. Tim investigasi mengumpulkan bukti berupa daftar physical address (alamat hardware) dan hardware ID (MAC address) yang terkait dengan perangkat yang menggunakan SolidWorks secara ilegal.  
+   2. Dari 14 physical address yang terdaftar, dua diidentifikasi pada 13 April 2023 sebagai milik divisi desain dan divisi TKI.  
+   3. Pada 14 April 2023, SolidBlock mengirimkan data timestamp tambahan, menambah satu alamat lagi yang terkait dengan divisi Kapal Perang, sehingga total alamat teridentifikasi menjadi tiga.  
+   4. Proses pelacakan jaringan menunjukkan bahwa akses perangkat tersebut dilakukan secara berulang, mencakup jam operasional dan frekuensi login.
+
+III. Permasalahan Lisensi dan Penggunaan SolidWorks  
+   1. Instalasi SolidWorks ilegal terdeteksi di beberapa PC di divisi TKI, Engineering Rekayasa Umum, dan Kapal Perang, dengan satu PC di Kapal Perang masih terhubung ke jaringan meskipun belum terlisensi.  
+   2. Kebutuhan lisensi diperkirakan lebih dari satu, karena satu lisensi tidak memadai untuk memproses semua proyek; biaya lisensi satu unit mencapai 920.000 USD.  
+   3. Pihak manajemen menilai bahwa pembelian lisensi tambahan diperlukan untuk menghindari risiko hukum dan teknis, serta untuk memastikan integritas data dan keamanan jaringan.
+
+IV. Rencana Tindak Lanjut  
+   1. Negosiasi akan dilanjutkan dengan vendor Arisma Data dan SolidWorks, mengingat hubungan kerja sebelumnya dan status legalitas yang belum diurus.  
+   2. Proses pembelian lisensi melibatkan permintaan persetujuan dari manajemen CMO, dengan penekanan pada alokasi anggaran proyek dan prosedur pengadaan resmi.  
+   3. Koordinasi antara departemen TI dan Legal akan dilakukan untuk memastikan pengamanan data pribadi dan penerapan kebijakan penggunaan perangkat keras.  
+   4. Tindak lanjut monitoring penggunaan SolidWorks akan ditetapkan, termasuk audit berkala dan pelaporan kepatuhan.
+
+V. Keputusan  
+   1. Pihak manajemen menyetujui pembelian lisensi SolidWorks tambahan untuk mematuhi peraturan dan meminimalkan risiko pelanggaran.  
+   2. Penetapan prosedur pengadaan lisensi resmi akan diimplementasikan, melibatkan vendor terdaftar dan verifikasi legalitas.  
+   3. Ditetapkan bahwa semua PC yang terhubung ke jaringan harus memiliki lisensi resmi, dan setiap instalasi baru akan diawasi oleh departemen TI.
+
+VI. Catatan Lain  
+   1. Diskusi menyoroti pentingnya keamanan data pribadi pada PC, mengingat adanya penggunaan perangkat pribadi dan potensi pelanggaran kebijakan data.  
+   2. Pihak TI diinstruksikan untuk melakukan pengamanan tambahan pada jaringan internal guna mencegah instalasi tidak sah di masa depan.

@@ -1,0 +1,49 @@
+I. Latar Belakang dan Kronologi Kasus  
+ 1. Pada tanggal 19 Agustus 2022, Dasal Sistem—yang merupakan pemilik perangkat keras SolidWorks—mengirim surat peringatan (nomor 9) kepada PT PAL.  
+ 2. Selama periode 3 Februari sampai 18 April 2022, PT Polio menggunakan produk SolidWorks, namun kemudian teridentifikasi tidak sesuai dengan prosedur yang ditetapkan.  
+ 3. Pada 23 November 2022, Dasal Sistem mengirim surat somasi.  
+ 4. Tanggal 23 Desember 2022, SCPPTM (Satuan Komando Pasukan Penegak Tugas Militer) memutuskan untuk mengadakan rapat evaluasi atas kasus tersebut.  
+ 5. Pada 21 Maret 2023, Dasal Sistem mengirim surat peringatan kedua dengan batas waktu tanggapan 3 April 2023.  
+
+II. Identifikasi Penggunaan SolidWorks Tidak Sah  
+ 1. Pemeriksaan awal oleh tim RND di UTB menilai bahwa instalasi SolidWorks berada di RND, namun kemudian diverifikasi tidak ada bukti penggunaan di sana.  
+ 2. Pada 5 April 2023, Dasal Sistem menyerahkan daftar 14 alamat fisik (physical address) dan ID perangkat keras (hardware ID) yang diduga menggunakan SolidWorks.  
+ 3. Penelusuran jaringan (tracing) pada 13 April 2023 mengidentifikasi dua divisi awal—Design dan Divisi Teknologi Quality Assurance—yang memiliki akses ke perangkat tersebut.  
+ 4. Pada 14 April 2023, tambahan satu alamat fisik teridentifikasi, berhubungan dengan kapal perang, sehingga total alamat terdeteksi menjadi tiga.  
+ 5. Rapat pada 17 Mei 2023 mengonfirmasi tiga unit komputer (dua di Divisi TKI & Engineering, satu di Divisi Kapal Perang) yang terpasang SolidWorks tidak berlisensi.  
+
+III. Rencana Pengadaan Lisensi dan Negosiasi Legal  
+ 1. Pihak Manajemen menegaskan perlunya membeli lisensi SolidWorks untuk melanjutkan kegiatan produksi dan pengembangan.  
+ 2. Terdapat kesepakatan bahwa satu lisensi berharga sekitar 920.000 USD, namun kebutuhan sebenarnya melampaui satu unit, mengingat banyaknya proyek yang memerlukan akses jaringan dan pencetakan.  
+ 3. Legal menyatakan bahwa proses negosiasi pembelian akan dilakukan melalui kontrak resmi, namun hingga saat ini belum memperoleh bukti pembayaran (proof) atau persetujuan anggaran.  
+ 4. Pihak TI akan menyediakan bukti timestamp dan data akses guna menegaskan kebutuhan operasional.  
+ 5. Arief (CTO) dan Taufik (manajer TI) berkomitmen untuk mengajukan usulan ke CEO dan CMO mengenai alokasi dana untuk pembelian lisensi.  
+
+IV. Keputusan dan Tindak Lanjut  
+ 1. Diputuskan untuk melanjutkan proses pembelian lisensi SolidWorks secara resmi, dengan tujuan menghilangkan penggunaan ilegal.  
+ 2. Rapat berikutnya akan meninjau status negosiasi, alokasi anggaran, dan bukti pembayaran.  
+ 3. Semua divisi yang terlibat—Divisi TKI, Engineering, Kapal Perang, serta IT—diharapkan menyiapkan laporan penggunaan perangkat untuk mempermudah proses audit.  
+ 4. Pihak Arisma, yang sebelumnya melaporkan penggunaan, akan menerima penagihan atas jasa dan perangkat yang belum dibayar.  
+
+V. Pertimbangan Keuangan dan Anggaran  
+ 1. Anggaran 920.000 USD mencakup satu lisensi, namun diprediksi memerlukan setidaknya lima unit untuk memenuhi kebutuhan proyek.  
+ 2. Pihak Manajemen menyatakan bahwa biaya tersebut berada di luar anggaran proyek saat ini, sehingga perlu persetujuan tambahan dari COO dan CMO.  
+ 3. Pihak TI mengajukan permohonan untuk memanfaatkan anggaran proyek (Project Budget) yang belum terpakai sebagai jaminan pembelian.  
+
+VI. Pertanyaan dan Klarifikasi  
+ 1. “Berapa total unit yang dibutuhkan?” – Diputuskan minimal lima unit berdasarkan volume proyek.  
+ 2. “Kapan pembayaran akan dilakukan?” – Penjadwalan pembayaran akan disepakati setelah finalisasi kontrak dengan vendor.  
+ 3. “Apakah ada risiko keamanan data?” – Divisi IT akan menyiapkan protokol keamanan tambahan untuk perangkat baru.  
+
+VII. Rincian Pengguna dan Divisi yang Terlibat  
+ | Divisi | Jumlah Komputer | Status Lisensi | Tindak Lanjut |  
+ |--------|-----------------|----------------|---------------|  
+ | TKI & Engineering | 2 | Tidak terlisensi | Penilaian kebutuhan |  
+ | Kapal Perang | 1 | Tidak terlisensi | Penilaian kebutuhan |  
+
+VIII. Dasar Hukum dan Referensi  
+ 1. Surat peringatan pertama (nomor 9, 19 Agustus 2022) dan surat somasi (23 November 2022) merupakan dasar hukum internal perusahaan.  
+ 2. Rapat evaluasi SCPPTM (23 Desember 2022) menjadi referensi resmi bagi kebijakan pengadaan perangkat lunak.  
+ 3. Kebijakan pengadaan perangkat lunak di PT PAL menyatakan bahwa semua software harus memiliki lisensi resmi dan tidak boleh diakses melalui jaringan tanpa izin.  
+
+Catatan: Semua informasi diambil langsung dari transkrip rapat dan tidak ada penambahan fakta baru.

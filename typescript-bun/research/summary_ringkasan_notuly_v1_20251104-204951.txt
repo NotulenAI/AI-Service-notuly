@@ -1,0 +1,31 @@
+I. Latar Belakang  
+   1. **Penggunaan SolidWorks ilegal** di beberapa divisi PT. PAL menimbulkan risiko hukum dan operasional.  
+   2. **Dokumen pendukung** yang sudah dikumpulkan meliputi surat peringatan, somasi, dan hasil rapat pada periode 2022‑2023.
+
+II. Kronologi Kejadian  
+   1. **19 Agustus 2022** – Dasal Sistem mengirimkan surat peringatan nomor 9 atas nama Tarikan kepada PT. PAL mengenai pelanggaran penggunaan SolidWorks.  
+   2. **3 Februari – 18 April 2022** – Periode penggunaan SolidWorks yang diidentifikasi oleh Dasal Sistem.  
+   3. **23 November 2022** – Surat somasi disampaikan kepada PT. PAL.  
+   4. **23 Desember 2022** – Rapat di SCPPTM dipimpin oleh Pak Bintoro, membahas identifikasi awal dan tindak lanjut.  
+   5. **26 Desember 2022** – ADTI memberi arahan penggunaan Soil Block di seluruh divisi PT. PAH, menegaskan belum ada instalasi ilegal pada saat itu.  
+   6. **21 Maret 2023** – Surat peringatan kedua dikirimkan, dengan batas waktu respons paling lambat 3 April 2023.  
+   7. **5 April 2023** – Dasal Sistem mengirimkan bukti physical address (hardware ID) dari perangkat yang dibeli oleh PT. PAL, bersama dengan permintaan timestamp identifikasi.  
+   8. **13 April 2023** – Tim tracing jaringan mengidentifikasi dua divisi awal: Divisi Desain dan Divisi Teknologi Quality Assurance.  
+   9. **14 April 2023** – Solid Block mengirimkan detail tambahan, menambahkan satu physical address lagi, sehingga total menjadi tiga lokasi (TKI, Desain, Kapal Perang).  
+   10. **17 Mei 2023** – Rapat diselenggarakan untuk membahas penggunaan komputer berinstal SolidWorks ilegal; tiga PC di identifikasi, dengan diskusi mengenai pembelian lisensi.
+
+III. Analisis  
+   1. **Jumlah perangkat** teridentifikasi sebanyak 14 physical address, namun 3 di antaranya terhubung ke jaringan dan digunakan secara ilegal.  
+   2. **Kebutuhan lisensi** lebih besar daripada satu unit; satu unit lisensi bernilai 920.000 USD, sementara kebutuhan proyek memerlukan lebih dari satu unit.  
+   3. **Status legalitas**: beberapa PC masih terinstal SolidWorks tetapi tidak terhubung ke jaringan, namun tetap tidak terlisensi.
+
+IV. Keputusan  
+   1. **Rekomendasi pembelian lisensi SolidWorks** di seluruh divisi yang teridentifikasi, guna menghilangkan pelanggaran penggunaan ilegal.  
+   2. **Negosiasi anggaran** dengan CMO dan COO diperlukan untuk memperoleh persetujuan pembelian lisensi sebesar 920.000 USD per unit.  
+   3. **Penyelesaian legalitas**: memutuskan semua instalasi ilegal dan menggantinya dengan lisensi resmi, serta memastikan tidak ada pelanggaran lagi di masa mendatang.
+
+V. Tindak Lanjut  
+   1. **Koordinasi dengan tim legal** untuk mempersiapkan dokumen negosiasi dan perjanjian pembelian lisensi.  
+   2. **Pengajuan pembelian lisensi** ke CEO, lengkap dengan justifikasi kebutuhan dan estimasi biaya.  
+   3. **Penyusunan rencana implementasi**: instalasi lisensi resmi di semua PC yang teridentifikasi, pelatihan pengguna, dan monitoring kepatuhan.  
+   4. **Pelaporan progres** kepada manajemen setiap bulan, mencakup status pembelian, instalasi, dan audit kepatuhan.

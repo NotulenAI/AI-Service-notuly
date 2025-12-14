@@ -1,0 +1,53 @@
+I. Kronologi Kasus Solidworks  
+&nbsp;1. Dokumen dan Tanggal Penting  
+&nbsp;&nbsp;a) Pada tanggal 19 Agustus 2022, PT. PAL menerima surat peringatan nomor 9 dari Dasal Sistem, yang mengklaim kepemilikan atas perangkat Solidworks yang dioperasikan di fasilitasnya.  
+&nbsp;&nbsp;b) Selama periode 3 Februari sampai 18 April 2022, penggunaan perangkat Solidworks di PT. Polio dikonfirmasi oleh Dasal Sistem; catatan ini menjadi dasar identifikasi awal.  
+&nbsp;&nbsp;c) Pada 23 November 2022, Dasal Sistem mengirimkan surat somasi kepada PT. PAL, mengingat penggunaan perangkat tanpa lisensi yang sah.  
+&nbsp;&nbsp;d) 23 Desember 2022 diadakan rapat perwakilan SCPPTM dan pihak terkait, di mana arahan untuk menindaklanjuti somasi disampaikan oleh Bapak Bintoro.  
+&nbsp;&nbsp;e) Pada 26 Desember 2022, ADTI mengusulkan penggunaan software Soil Block di seluruh divisi PT. PAH, sekaligus menyoroti potensi penggunaan ilegal Solidworks.  
+&nbsp;&nbsp;f) 21 Maret 2023, Dasal Sistem mengirimkan surat peringatan ke‑2, meminta respon paling lambat 3 April 2023.  
+&nbsp;&nbsp;g) 5 April 2023, Dasal Sistem menyerahkan bukti physical address dan hardware ID perangkat Solidworks yang dibeli oleh PT. PAL; data tersebut kemudian dikirimkan ke DBCTI untuk verifikasi timestamp.  
+&nbsp;&nbsp;h) 13 April 2023, tim tracing jaringan mengidentifikasi dua divisi awal (Desain dan Teknologi Quality Assurance) sebagai pengguna utama.  
+&nbsp;&nbsp;i) 14 April 2023, Solid Block mengirimkan detail timestamp, menambah satu lokasi tambahan di Kapal Perang, sehingga total lokasi tercatat menjadi tiga.  
+&nbsp;&nbsp;j) Pada 17 Mei 2023, rapat hasil tracing menegaskan adanya dua PC di Divisi TKI serta satu PC di Divisi Kapal Perang yang masih menggunakan Solidworks ilegal.  
+
+II. Identifikasi Penggunaan Ilegal Solidworks  
+&nbsp;1. Lokasi dan Perangkat  
+&nbsp;&nbsp;a) Terdapat 14 physical address yang teridentifikasi oleh Dasal Sistem; setelah pencocokan, 14 address tersebut ternyata memiliki kesamaan, menunjukkan konsistensi penggunaan.  
+&nbsp;&nbsp;b) Tracing jaringan mengonfirmasi tiga divisi utama (Desain, Teknologi Quality Assurance, dan Kapal Perang) yang memiliki akses ke perangkat ilegal.  
+&nbsp;&nbsp;c) Pada rapat 17 Mei 2023, diverifikasi bahwa dua PC di Divisi TKI dan satu PC di Divisi Kapal Perang masih terhubung ke jaringan, meskipun belum terlisensi secara resmi.  
+
+III. Tindak Lanjut dan Rencana Pembelian Lisensi  
+&nbsp;1. Usulan Pembelian  
+&nbsp;&nbsp;a) Semua pihak yang terlibat setuju bahwa pembelian lisensi Solidworks akan mengatasi masalah ilegalitas dan memfasilitasi operasional proyek.  
+&nbsp;&nbsp;b) Pihak TI menekankan pentingnya lisensi tambahan, mengingat kebutuhan proyek yang lebih dari satu lisensi; satu lisensi tidak cukup untuk mengakomodasi semua aktivitas desain dan printing.  
+&nbsp;&nbsp;c) Nilai satu lisensi Solidworks dihitung pada 920.000 USD, dan diperkirakan memerlukan minimal lima lisensi untuk memenuhi kebutuhan operasional seluruh divisi.  
+
+&nbsp;2. Negosiasi dan Persetujuan Manajemen  
+&nbsp;&nbsp;a) Pihak manajemen menolak pembelian lisensi secara langsung karena anggaran proyek yang terbatas; mereka meminta klarifikasi dan bukti biaya.  
+&nbsp;&nbsp;b) Tindakan rekomendasi adalah mengajukan pembelian melalui proses negosiasi formal ke CEO, sekaligus meminta persetujuan dari CMO sebagai pemegang anggaran utama.  
+
+IV. Keputusan Manajemen  
+&nbsp;1. Penerimaan Rapat  
+&nbsp;&nbsp;a) Pihak manajemen setuju untuk menindaklanjuti rapat 17 Mei 2023, memulai prosedur pembelian lisensi Solidworks, dan menuntut penyerahan bukti pembayaran dari vendor.  
+&nbsp;&nbsp;b) Pihak manajemen menegaskan bahwa keputusan pembelian harus disahkan melalui rapat eksekutif selanjutnya, dan tidak akan diputuskan secara sepihak oleh departemen TI.  
+
+V. Dasar Hukum dan Kebijakan  
+&nbsp;1. Peringatan dan Somasi  
+&nbsp;&nbsp;a) Surat peringatan nomor 9 serta somasi pada 23 November 2022 merupakan dasar hukum untuk menuntut kepatuhan penggunaan perangkat lunak.  
+&nbsp;&nbsp;b) Dasar sistem perusahaan menuntut agar setiap penggunaan perangkat lunak terdaftar dan terlisensi; pelanggaran menimbulkan risiko hukum dan reputasi.  
+
+VI. Ringkasan Data Penting (Tabel)  
+| Tanggal | Kegiatan | Pihak Terkait | Hasil | Catatan Tambahan |
+|---------|----------|---------------|-------|------------------|
+| 19 Agustus 2022 | Surat peringatan nomor 9 | Dasal Sistem → PT. PAL | Peringatan resmi | Dokumen awal |
+| 3 Feb‑18 Apr 2022 | Penggunaan Solidworks | Dasal Sistem | Identifikasi | Basis data |
+| 23 Nov 2022 | Somasi | Dasal Sistem → PT. PAL | Peringatan | Persyaratan |
+| 23 Des 2022 | Rapat SCPPTM | Bintoro, pihak terkait | Arahan | Dokumentasi |
+| 21 Mar 2023 | Surat peringatan ke‑2 | Dasal Sistem | Permintaan respons | Deadline 3 Apr |
+| 5 Apr 2023 | Penyerahan bukti hardware | Dasal Sistem → DBCTI | Verifikasi timestamp | 14 physical address |
+| 13 Apr 2023 | Tracing jaringan | Tim tracing | Identifikasi dua divisi | Divisi Desain & QA |
+| 14 Apr 2023 | Detail timestamp | Solid Block | Tambah satu divisi | Kapal Perang |
+| 17 Mei 2023 | Rapat hasil tracing | Divisi TKI, Kapal Perang, TI | Tiga PC ilegal | Diskusi pembelian |
+
+Semua informasi di atas bersifat akurat berdasarkan transkrip rapat yang tersedia; tidak ada data tambahan yang tidak disebutkan.

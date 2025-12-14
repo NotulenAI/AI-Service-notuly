@@ -1,59 +1,21 @@
-import { Hono } from 'hono'
-import { createStuffDocumentsChain } from "@langchain/classic/chains/combine_documents";
-import { StringOutputParser } from "@langchain/core/output_parsers";
-import { PromptTemplate } from "@langchain/core/prompts";
-import { ChatGroq } from "@langchain/groq";
-import { ChatOpenAI } from "@langchain/openai";
-import OpenAI from "openai";
-import { readFileSync } from "fs";
-import { fileURLToPath } from "url";
-import path from "path";
-import { Document } from "@langchain/core/documents";
-import { initChatModel } from "langchain";
+import { initChatModel, modelCallLimitMiddleware, Document } from "langchain";
 import { RecursiveCharacterTextSplitter } from "@langchain/classic/text_splitter";
 import { StateGraph, Annotation, Send } from "@langchain/langgraph";
+import { collapseDocs, splitListOfDocs } from "@langchain/classic/chains/combine_documents/reduce";
+import { pull } from "langchain/hub";
+import { PromptTemplate, ChatPromptTemplate } from "@langchain/core/prompts";
 
-const app = new Hono()
+import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
 
-const prompt = new PromptTemplate({
-  inputVariables: ["context"],
-  template: "Ringkaskanlah transcript yang kumiliki ini {context}",
-});
-
-// ================================MODEL================================
-const llm_openai = new OpenAI({ baseURL: process.env.RUNPOD_BASE_URL!,
-  apiKey: process.env.RUNPOD_API_KEY! });
-
-// const llm = new ChatGroq({
-//   model: "llama-3.3-70b-versatile",
-//   temperature: 0
-// });
-
-// const llm = initChatModel(
-//     process.env.RUNPOD_MODEL,
-//     {
-//         modelProvider: "openai",
-//         baseUrl: process.env.RUNNPOD_BASE_URL!,
-//         apiKey: process.env.RUNPOD_API_KEY!,
-//     }
-// )
-
-const llm = new ChatOpenAI({
-  model: process.env.RUNPOD_MODEL,
-  apiKey: process.env.RUNPOD_API_KEY!,
-  configuration: {
-    baseURL: process.env.RUNPOD_BASE_URL!,
-  },
-});
-
-
-// =================================DOC=================================
+// Resolve directory of this file and read transcript from repo root
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const transcriptText: string = readFileSync(path.join(__dirname, "transcript-yt.txt"), "utf-8");
+const transcriptPath = path.join(__dirname, "..", "transcript-yt.txt");
+const transcriptText: string = fs.readFileSync(transcriptPath, "utf-8");
 const transcript = [new Document({ pageContent: transcriptText })];
 
-// ============================DOC_ADVANCED============================
 const textSplitter = new RecursiveCharacterTextSplitter({
   chunkSize: 100,
   chunkOverlap: 0,
@@ -63,14 +25,34 @@ const texts = await textSplitter.splitText(transcriptText);
 
 let tokenMax = 1000;
 
+// Initialize a chat model. Adjust model name/options to your environment if needed.
+// initChatModel returns a promise, so await it. The API may accept the model
+// name as the first argument.
+const llm = await initChatModel("gpt-4o-mini");
+
 async function lengthFunction(documents: any) {
+  // Some LLM wrappers expose `getNumTokens`; fall back to a simple heuristic
   const tokenCounts = await Promise.all(
     documents.map(async (doc: any) => {
-      return llm.getNumTokens(doc.pageContent);
+      const content = doc?.pageContent ?? "";
+      if (typeof llm?.getNumTokens === "function") {
+        try {
+          return await llm.getNumTokens(content);
+        } catch (e) {
+          // fall through to heuristic
+        }
+      }
+      // Rough heuristic: average 4 characters per token
+      return Math.max(1, Math.ceil(content.length / 4));
     })
   );
   return tokenCounts.reduce((sum, count) => sum + count, 0);
 }
+
+// Pull prompts from LangChain Hub
+const mapPrompt = await pull<ChatPromptTemplate>("rlm/map-prompt");
+const reducePrompt = await pull<ChatPromptTemplate>("rlm/reduce-prompt");
+
 const OverallState = Annotation.Root({
   contents: Annotation<string[]>,
   // Notice here we pass a reducer function.
@@ -94,8 +76,8 @@ interface SummaryState {
 const generateSummary = async (
   state: SummaryState
 ): Promise<{ summaries: string[] }> => {
-  const promptValue = await prompt.invoke({ context: state.content });
-  const response = await llm.invoke(promptValue);
+  const promptResult = await mapPrompt.invoke({ context: state.content });
+  const response = await llm.invoke(promptResult);
   return { summaries: [String(response.content)] };
 };
 
@@ -118,17 +100,9 @@ const collectSummaries = async (state: typeof OverallState.State) => {
   };
 };
 
-type ReduceInput = Document[];
-
-// Define a prompt template for reducing summaries
-const reducePrompt = new PromptTemplate({
-  inputVariables: ["docs"],
-  template: "Gabungkan dan ringkas dokumen-dokumen berikut: {docs}",
-});
-
-async function _reduce(input: ReduceInput): Promise<string> {
-  const prompt = await reducePrompt.invoke({ docs: input });
-  const response = await llm.invoke(prompt);
+async function _reduce(input: any) {
+  const promptResult = await reducePrompt.invoke({ docs: input });
+  const response = await llm.invoke(promptResult);
   return String(response.content);
 }
 
@@ -184,42 +158,4 @@ const graph = new StateGraph(OverallState)
 
 const langgraph = graph.compile();
 
-// ===============================ROUTER===============================
-app.get('/', (c) => {
-  return c.text('Hello Hono!')
-})
-
-// testing vllm
-app.post('/vllm_openai', async (c) => {
-  const { input } = await c.req.json();
-
-  const response = await llm_openai.chat.completions.create({
-    model: "openai/gpt-oss-20b",
-    messages: [{ role: "user", content: input }],
-  });
-
-  return c.text(response.choices[0]?.message?.content ?? "");
-});
-
-// summarize
-app.get('/vllm_chatopenai', async (c) => {
-  const chain = await createStuffDocumentsChain({
-    llm: llm,
-    outputParser: new StringOutputParser(),
-    prompt,
-  });
-  const response = await chain.invoke({ context: transcript });
-  return c.text(response);
-  // return c.text(transcriptText);
-});
-
-// summarize
-app.get('/gpt_oss', async (c) => {
-  const { input } = await c.req.json();
-
-  const response = await chain.invoke({ context: transcript });
-  return c.text(response);
-  // return c.text(transcriptText);
-});
-
-export default app
+export default langgraph;

@@ -1,0 +1,31 @@
+I. Latar Belakang  
+    1. Kasus penggunaan Solidworks ilegal di PT. PAL  
+        a) Awal 2022, surat peringatan nomor 9 dari Tarikan bertindak atas nama Dasal Sistem  
+II. Isu/Pertanyaan  
+    1. Bagaimana cara menyesuaikan kepatuhan lisensi Solidworks?  
+        a) Apakah membeli lisensi baru menjadi solusi?  
+III. Fakta & Temuan  
+    1. Kronologi kejadian  
+        a) 19 Agustus 2022: surat peringatan pertama  
+        b) 23 November 2022: somasi  
+        c) 23 Desember 2022: rapat SCPPTM  
+        d) 26 Desember 2022: arahan penggunaan Soil Block di seluruh divisi PT. PAL  
+        e) 21 Maret 2023: surat peringatan kedua, deadline 3 April 2023  
+        f) 5 April 2023: bukti physical address (14 alamat)  
+    2. Identifikasi perangkat  
+        a) 14 physical address, 3 divisi (TKI, Engineering, Kapal Perang)  
+    3. Diskusi pembelian lisensi  
+        a) Harga satu lisensi sebesar USD 920.000  
+IV. Pembahasan  
+    1. Diskusi internal solusi  
+        a) Rekomendasi membeli lisensi Solidworks  
+V. Keputusan/Arahan  
+    1. Rekomendasi pembelian lisensi Solidworks  
+        a) Negosiasi dengan vendor dan pengajuan persetujuan CEO  
+VI. Dasar Hukum/Referensi  
+    1. Tidak disebutkan  
+VII. Rencana/Tindak Lanjut  
+    1. Membuat rencana pembelian dan memohon persetujuan CEO  
+        a) Tindak lanjut ke manajemen dan pelaporan status  
+    2. Pengawasan penggunaan perangkat setelah pembelian  
+        a) Implementasi kebijakan lisensi dan audit periodik  

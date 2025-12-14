@@ -1,0 +1,58 @@
+ringkasan_notuly_v1: |
+  <instruksi>
+  Ringkas teks transcript menjadi dokumen formal untuk kebutuhan notulensi rapat perusahaan
+  Judul bagian utama diturunkan otomatis dari isi (contoh umum: Referensi pembahasan, Permasalahan, Pokok-pokok pembahasan, Keputusan, Tindak Lanjut, Dasar Hukum/Referensi), namun jangan dipaksakan; pilih hanya yang relevan.
+  
+  <format>
+  - Gunakan penomoran hierarkis:
+    I. {Judul Bagian} (minimalkan jumlah judul bagian bagian notulen, jangan banyak-banyak)
+        1. {Subpoin}
+            a) {Sub-subpoin} (opsional, hanya jika ada detail penting)
+            b) {Sub-subpoin} (opsional)
+        2. {Subpoin}
+    II. {Judul Bagian Lainnya}
+  - Bahasa formal dan objektif. Tanpa kalimat pembuka/penutup
+  - Jika data tidak tersedia, tulis: "Tidak disebutkan"
+  - Boleh menyertakan kutipan singkat untuk pasal/aturan jika muncul di teks
+  - Jika ada data yang cocok (misal: daftar, perbandingan, rincian biaya, dsb), boleh gunakan format tabel.
+  - Jika informasi tersedia, uraikan secara detail dan jelas, jangan hanya menyebutkan nama atau istilah
+  - Setiap subpoin dan sub-subpoin harus dijelaskan dalam kalimat lengkap, bukan hanya frasa pendek.
+  - Jelaskan setiap butir dengan narasi yang utuh, bukan hanya bullet point singkat.
+
+  <aturan ekstraksi>
+  - Identifikasi entitas, waktu/tanggal, nomor surat/risalah, keputusan/arah kebijakan, dan pihak terkait.
+  - Kelompokkan butir yang sejenis ke dalam satu bagian.
+  - Untuk regulasi atau dasar hukum, tampilkan butir bertingkat di bawah satu bagian khusus jika ada.
+  - Jangan menciptakan fakta baru.
+  - berikan hasil ringkasan dengan isi kalimat yang panjang dan jelas
+
+  <output>
+  Hanya keluaran berformat seperti di <format>. Tanpa metadata atau label tambahan.
+  
+ringkasan_notuly_v2: |
+  <instruksi>
+  Buat ringkasan struktural adaptif. Struktur ditentukan dari kandidat bagian yang diberikan dan dari pola alami dokumen. Hanya pakai bagian yang relevan dan urutkan secara logis.
+
+  <parameter>
+  - section_candidates (opsional, default):
+      ["Latar Belakang", "Isu/Pertanyaan", "Fakta & Temuan", "Pembahasan", "Keputusan/Arahan", "Dasar Hukum/Referensi", "Rencana/Tindak Lanjut"]
+  - max_depth: 3  # I. / 1. / a)
+  - style_numbering: "roman.numeric.alpha"
+  - missing_info_token: "Tidak disebutkan"
+
+  <format>
+  I. {Bagian Terpilih}
+    1. {Subpoin ringkas}
+      a) {Detail penting}
+  II. {Bagian Terpilih Berikutnya}
+      1. {Subpoin ringkas}
+
+  <aturan>
+  - Gunakan kandidat bagian jika cocok; jika tidak, turunkan judul singkat dari isi.
+  - Normalisasi entitas: tanggal, nomor surat/risalah, unit organisasi, nilai/biaya.
+  - Pasal/ayat atau kutipan hukum ditulis sebagai butir bertingkat di bawah "Dasar Hukum/Referensi" bila ada.
+  - Konsistenkan istilah dan hindari repetisi.
+  - Jika informasi tidak ada, tulis missing_info_token.
+
+  <output>
+  Hanya struktur berjenjang sesuai <format>. Tanpa preambel/penutup.

@@ -1,0 +1,59 @@
+I. **Referensi Pembahasan**  
+1. Surat nomor 9 dari Tarikan atas nama Dasal Sistem, 19 Agustus 2022.  
+2. Surat somasi, 23 November 2022.  
+3. Rapat dengan SCPPTM, 23 Desember 2022.  
+4. Arahan penggunaan Soil Block, 26 Desember 2022.  
+5. Surat peringatan ke‑2, 21 Maret 2023 – batas respon 3 April 2023.  
+6. Bukti perangkat (14 physical address) dari Dasal System, 5 April 2023.  
+7. Rapat hasil tracking komputer, 17 Mei 2023.  
+
+II. **Permasalahan**  
+1. Penggunaan SolidWorks ilegal di PT PAL.  
+2. Identifikasi 14 physical address terhubung pada tiga divisi:  
+   a) TKI  
+   b) Desain  
+   c) Kapal Perang.  
+3. Kebutuhan lisensi SolidWorks minimal 5 unit; nilai setiap lisensi mencapai 920.000 USD.  
+4. Hambatan pembayaran dan negosiasi dengan vendor Arisma/SolidWorks.  
+
+III. **Pokok‑pokok Pembahasan**  
+1. **Kronologi Kasus**  
+   a) Awal kasus di 19 Agustus 2022 (surat nomor 9).  
+   b) Identifikasi awal di RND salah, kemudian diperbaiki pada rapat 23 Desember 2022.  
+   c) Tindak lanjut melalui surat somasi dan rapat.  
+2. **Analisis Perangkat**  
+   a) 14 physical address terdeteksi.  
+   b) Tanggal identifikasi: 13 April 2023 (dua divisi); 14 April 2023 (tiga divisi).  
+3. **Kebutuhan Lisensi**  
+   a) Nilai total 920.000 USD.  
+   b) Satu lisensi tidak mencukupi; dibutuhkan minimal lima.  
+4. **Rekomendasi**  
+   a) Menyelesaikan permasalahan melalui pembelian lisensi.  
+   b) Negosiasi harga dan pembuatan kontrak legal.  
+
+IV. **Keputusan**  
+1. Persetujuan untuk membeli lisensi SolidWorks.  
+2. Pemberian mandat kepada tim TI dan legal untuk menyusun proposal pembelian.  
+3. Pengajuan permohonan kepada CEO dan manajemen untuk penyaluran anggaran.  
+
+V. **Tindak Lanjut**  
+1. Tim TI: menyusun rencana pembelian, mengajukan usulan ke manajemen.  
+2. Tim legal: menyiapkan kontrak pembelian dan klausul penyelesaian pelanggaran.  
+3. Manajemen: meninjau anggaran, mengkoordinasi pembiayaan.  
+4. Monitoring: audit penggunaan perangkat lunak secara berkala.  
+
+VI. **Dasar Hukum / Referensi**  
+1. Surat peringatan nomor 9 Dasal Sistem (19 Agustus 2022).  
+2. Surat somasi (23 November 2022).  
+3. Kebijakan internal PT PAL tentang lisensi perangkat lunak dan kepatuhan.  
+
+**Tabel: Daftar Perangkat Teridentifikasi**  
+
+| No. | Physical Address | Divisi           |
+|-----|-------------------|------------------|
+| 1   | [alamat 1]        | TKI              |
+| 2   | [alamat 2]        | Desain           |
+| …   | …                 | …                |
+| 14  | [alamat 14]       | Kapal Perang     |
+
+(Identifikasi menunjukkan 3 divisi utama, total 14 alamat fisik.)
